@@ -15,7 +15,7 @@
 | Extension bundle ID | `org.lekitech.kumykkeyboard.dev.KumykKeyboardExtension` | `org.lekitech.kumykkeyboard.KumykKeyboardExtension` |
 | App Group (`KUMYK_APP_GROUP_ID`, both entitlements) | `group.org.lekitech.kumykkeyboard.dev` | `group.org.lekitech.kumykkeyboard` |
 | Signing | Automatic, team `RC94H8KQYA` | Manual, `Apple Distribution`, team and profiles empty |
-| Display name | Kumyk / Кумыкский | same |
+| Display name | app: Kumyk / Къумукъ тил · keyboard: Kumyk / Кумыкский | same |
 
 Debug and Release use different identifiers on purpose: bundle IDs and App
 Groups are unique across Apple developer teams, so a Debug build registered

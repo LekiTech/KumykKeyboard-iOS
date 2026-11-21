@@ -42,8 +42,8 @@ reviewed Kumyk version:
 | emojiCategoryTitles | Смайлики и люди, Животные и природа, Еда и напитки, Активность, Путешествия и места, Предметы, Символы, Флаги |
 
 Also the extension's `Localizable.xcstrings` («Show «къум» on the space
-bar», en/ru) and the display name «Kumyk» / «Кумыкский» in both
-`InfoPlist.xcstrings` (a Kumyk display name could be added as a `kum`
+bar», en/ru) and the display name «Kumyk» / «Кумыкский» in the keyboard
+extension's `InfoPlist.xcstrings` (a Kumyk display name could be added as a `kum`
 localization once iOS lists the language).
 
 The engine's own labels (for example the explanatory subtitles under the
