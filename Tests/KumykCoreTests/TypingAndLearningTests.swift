@@ -32,6 +32,11 @@ final class TypingAndLearningTests: KumykTestCase {
         // Empty the learned store IN PLACE; never delete learned.sqlite
         // while a model may still hold it open.
         LearnedWords()?.reset()
+        // These tests follow a word from its first use, so they run with
+        // Fast selected, the way a user picks it in the settings panel.
+        // The default (Normal, three uses) has its own tests under
+        // "Learning speed", which start without a stored choice.
+        UserDefaults.standard.set("fast", forKey: "set_learnSpeed")
     }
 
     @MainActor
@@ -299,8 +304,9 @@ final class TypingAndLearningTests: KumykTestCase {
 
     @MainActor
     func testSettingsPersistAcrossModels() {
+        UserDefaults.standard.removeObject(forKey: "set_learnSpeed")   // a fresh install
         let model = KeyboardModel()
-        XCTAssertEqual(model.settings.learnSpeed, .fast)
+        XCTAssertEqual(model.settings.learnSpeed, .normal)
         XCTAssertEqual(model.settings.theme, .system)
         model.updateSettings {
             $0.theme = .dark
@@ -315,5 +321,48 @@ final class TypingAndLearningTests: KumykTestCase {
         XCTAssertFalse(again.settings.nextWordSuggestions)
         XCTAssertEqual(UserDefaults.standard.string(forKey: "set_theme"), "dark")
         XCTAssertEqual(model.layoutStyle, .standard)
+    }
+
+    // MARK: - Learning speed
+
+    /// A fresh install has no stored learning speed and follows General
+    /// Keyboard's default, Normal: a word is suggested after three uses.
+    @MainActor
+    func testFreshInstallLearnsAWordAfterThreeUses() {
+        UserDefaults.standard.removeObject(forKey: "set_learnSpeed")
+        let model = KeyboardModel()
+        XCTAssertEqual(model.settings.learnSpeed, .normal)
+        XCTAssertEqual(model.settings.learnSpeed.minUses, 3)
+        let proxy = MockTextDocumentProxy()
+        model.shiftState = .off
+        type("къумукъча ", into: model, proxy: proxy)
+        XCTAssertEqual(model.savedWords(), [], "1 of 3 uses")
+        type("къумукъча ", into: model, proxy: proxy)
+        XCTAssertEqual(model.savedWords(), [], "2 of 3 uses")
+        type("къумукъча ", into: model, proxy: proxy)
+        XCTAssertEqual(model.savedWords(), ["къумукъча"])
+        type("къум", into: model, proxy: proxy)
+        XCTAssertEqual(model.suggestions, ["къум", "къумукъча"])
+        // Following the default stores nothing
+        XCTAssertNil(UserDefaults.standard.object(forKey: "set_learnSpeed"))
+    }
+
+    /// A learning speed the user saved is kept: Fast stays Fast and Slow
+    /// stays Slow, and words learned earlier are neither deleted nor reset.
+    @MainActor
+    func testSavedLearningSpeedAndLearnedWordsAreKept() throws {
+        for (raw, speed) in [("fast", KeyboardSettings.LearnSpeed.fast), ("conservative", .conservative)] {
+            UserDefaults.standard.set(raw, forKey: "set_learnSpeed")
+            XCTAssertEqual(KeyboardModel().settings.learnSpeed, speed, raw)
+            XCTAssertEqual(UserDefaults.standard.string(forKey: "set_learnSpeed"), raw)
+        }
+        // A word used once before the default was Normal, no stored choice
+        UserDefaults.standard.removeObject(forKey: "set_learnSpeed")
+        try XCTUnwrap(LearnedWords()).learn("къумукъча", previous: nil, picked: false)
+        let model = KeyboardModel()
+        XCTAssertEqual(model.savedWords(), [])
+        XCTAssertTrue(try XCTUnwrap(LearnedWords()).isRecognized("къумукъча"), "the row and its count are still stored")
+        model.updateSettings { $0.learnSpeed = .fast }
+        XCTAssertEqual(model.savedWords(), ["къумукъча"])
     }
 }
