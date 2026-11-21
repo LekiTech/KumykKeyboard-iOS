@@ -1,0 +1,370 @@
+source,target,rule,source_ocr_count,source_frequency_list_count,target_count_before,target_count_after
+абурсый,абур-сый,H1 hyphen stripped by the frequency list,1,65,6,72
+авулхоншу,авул-хоншу,H1 hyphen stripped by the frequency list,0,8,8,16
+агъаини,агъа-ини,H1 hyphen stripped by the frequency list,1,58,16,75
+агъаинилер,агъа-инилер,H1 hyphen stripped by the frequency list,0,18,3,21
+агъаинини,агъа-инини,H1 hyphen stripped by the frequency list,0,11,6,17
+адаткъылыкъ,адат-къылыкъ,H1 hyphen stripped by the frequency list,0,9,5,14
+адаткъылыкъларыбызны,адат-къылыкъларыбызны,H1 hyphen stripped by the frequency list,0,3,3,6
+азкёп,аз-кёп,H1 hyphen stripped by the frequency list,1,26,23,50
+азмаз,аз-маз,H1 hyphen stripped by the frequency list,2,69,18,89
+айрыайры,айры-айры,H1 hyphen stripped by the frequency list,0,112,5,117
+алапелекет,ала-пелекет,H1 hyphen stripped by the frequency list,0,11,3,14
+аласаладан,ала-саладан,H1 hyphen stripped by the frequency list,0,7,5,12
+алкъылыч,ал-къылыч,H1 hyphen stripped by the frequency list,0,12,3,15
+аметхан,амет-хан,H1 hyphen stripped by the frequency list,0,4,27,31
+анабала,ана-бала,H1 hyphen stripped by the frequency list,0,3,3,6
+апакъ,ап-акъ,H1 hyphen stripped by the frequency list,0,4,4,8
+арибери,ари-бери,H1 hyphen stripped by the frequency list,1,31,17,49
+артартындан,арт-артындан,H1 hyphen stripped by the frequency list,2,23,20,45
+артыалды,арты-алды,H1 hyphen stripped by the frequency list,1,4,29,34
+арымайталмай,арымай-талмай,H1 hyphen stripped by the frequency list,0,4,5,9
+ассрни,асср-ни,H1 hyphen stripped by the frequency list,0,26,7,33
+астааста,аста-аста,H1 hyphen stripped by the frequency list,1,67,30,98
+атаана,ата-ана,H1 hyphen stripped by the frequency list,0,64,32,96
+атаанабыз,ата-анабыз,H1 hyphen stripped by the frequency list,0,5,10,15
+атаанагъа,ата-анагъа,H1 hyphen stripped by the frequency list,1,53,9,63
+атаанагъыз,ата-анагъыз,H1 hyphen stripped by the frequency list,0,3,6,9
+атаанадан,ата-анадан,H1 hyphen stripped by the frequency list,0,7,3,10
+атааналаны,ата-аналаны,H1 hyphen stripped by the frequency list,2,32,21,55
+атааналары,ата-аналары,H1 hyphen stripped by the frequency list,2,49,32,83
+атааналарын,ата-аналарын,H1 hyphen stripped by the frequency list,0,4,3,7
+атаанамны,ата-анамны,H1 hyphen stripped by the frequency list,0,5,6,11
+атаананы,ата-ананы,H1 hyphen stripped by the frequency list,1,61,31,93
+атаанасы,ата-анасы,H1 hyphen stripped by the frequency list,11,111,109,231
+атаанасыз,ата-анасыз,H1 hyphen stripped by the frequency list,1,8,7,16
+атаанасын,ата-анасын,H1 hyphen stripped by the frequency list,1,31,30,62
+атаанасына,ата-анасына,H1 hyphen stripped by the frequency list,4,34,33,71
+атаанасындан,ата-анасындан,H1 hyphen stripped by the frequency list,2,16,19,37
+атаанасыны,ата-анасыны,H1 hyphen stripped by the frequency list,4,37,32,73
+атабабаланы,ата-бабаланы,H1 hyphen stripped by the frequency list,0,7,3,10
+атабабалар,ата-бабалар,H1 hyphen stripped by the frequency list,0,3,1,4
+атабабалардан,ата-бабалардан,H1 hyphen stripped by the frequency list,2,13,12,27
+атабабалары,ата-бабалары,H1 hyphen stripped by the frequency list,1,8,15,24
+атабабаларыбыз,ата-бабаларыбыз,H1 hyphen stripped by the frequency list,3,37,26,66
+атабабаларыбыздан,ата-бабаларыбыздан,H1 hyphen stripped by the frequency list,2,22,12,36
+атабабаларыбызны,ата-бабаларыбызны,H1 hyphen stripped by the frequency list,0,16,12,28
+атабабаларым,ата-бабаларым,H1 hyphen stripped by the frequency list,0,4,6,10
+атабабаларыны,ата-бабаларыны,H1 hyphen stripped by the frequency list,3,8,15,26
+атаманам,атам-анам,H1 hyphen stripped by the frequency list,8,32,76,116
+атаманамны,атам-анамны,H1 hyphen stripped by the frequency list,3,8,27,38
+атангананг,атанг-ананг,H1 hyphen stripped by the frequency list,0,5,6,11
+ачыкъданачыкъ,ачыкъдан-ачыкъ,H1 hyphen stripped by the frequency list,0,16,3,19
+ашсув,аш-сув,H1 hyphen stripped by the frequency list,0,14,20,34
+барабара,бара-бара,H1 hyphen stripped by the frequency list,2,98,26,126
+барёкъ,бар-ёкъ,H1 hyphen stripped by the frequency list,0,11,4,15
+башгъабашгъа,башгъа-башгъа,H1 hyphen stripped by the frequency list,5,121,44,170
+бетгебет,бетге-бет,H1 hyphen stripped by the frequency list,2,47,27,76
+бетинбашын,бетин-башын,H1 hyphen stripped by the frequency list,0,4,5,9
+бирбир,бир-бир,H1 hyphen stripped by the frequency list,16,592,135,743
+бирбирде,бир-бирде,H1 hyphen stripped by the frequency list,13,122,121,256
+бирбирев,бир-бирев,H1 hyphen stripped by the frequency list,1,13,5,19
+бирбири,бир-бири,H1 hyphen stripped by the frequency list,4,94,52,150
+бирбирибизге,бир-бирибизге,H1 hyphen stripped by the frequency list,0,8,31,39
+бирбирибизни,бир-бирибизни,H1 hyphen stripped by the frequency list,1,19,35,55
+бирбиригизни,бир-биригизни,H1 hyphen stripped by the frequency list,0,6,4,10
+бирбирин,бир-бирин,H1 hyphen stripped by the frequency list,5,78,50,133
+бирбиринден,бир-биринден,H1 hyphen stripped by the frequency list,1,24,18,43
+бирбирине,бир-бирине,H1 hyphen stripped by the frequency list,11,201,126,338
+бирбирини,бир-бирини,H1 hyphen stripped by the frequency list,0,19,13,32
+бирбирлетип,бир-бирлетип,H1 hyphen stripped by the frequency list,1,3,10,14
+биргинебир,биргине-бир,H1 hyphen stripped by the frequency list,8,86,109,203
+бирдагъыбир,бирдагъы-бир,H1 hyphen stripped by the frequency list,1,24,9,34
+бирденбир,бирден-бир,H1 hyphen stripped by the frequency list,0,98,8,106
+биревбиревге,бирев-биревге,H1 hyphen stripped by the frequency list,0,14,4,18
+бирибирини,бири-бирини,H1 hyphen stripped by the frequency list,0,4,3,7
+биринденбири,биринден-бири,H1 hyphen stripped by the frequency list,2,40,29,71
+бирэки,бир-эки,H1 hyphen stripped by the frequency list,4,125,43,172
+бойлусойлу,бойлу-сойлу,H1 hyphen stripped by the frequency list,3,4,25,32
+бугюнтангала,бугюн-тангала,H1 hyphen stripped by the frequency list,1,8,6,15
+бюсбютюн,бюс-бютюн,H1 hyphen stripped by the frequency list,0,10,4,14
+вицепремьер,вице-премьер,H1 hyphen stripped by the frequency list,0,19,0,19
+влксмни,влксм-ни,H1 hyphen stripped by the frequency list,0,19,7,26
+гесекгесек,гесек-гесек,H1 hyphen stripped by the frequency list,0,7,5,12
+гечегюн,гече-гюн,H1 hyphen stripped by the frequency list,0,21,13,34
+гечесигюню,гечеси-гюню,H1 hyphen stripped by the frequency list,1,23,7,31
+гечесингюнюн,гечесин-гюнюн,H1 hyphen stripped by the frequency list,1,22,11,34
+гьажимуратны,гьажи-муратны,H1 hyphen stripped by the frequency list,0,11,3,14
+гьайванмал,гьайван-мал,H1 hyphen stripped by the frequency list,0,70,7,77
+гьайванмалгъа,гьайван-малгъа,H1 hyphen stripped by the frequency list,0,17,4,21
+гьайванмалны,гьайван-малны,H1 hyphen stripped by the frequency list,0,27,3,30
+гьалигьалилерде,гьали-гьалилерде,H1 hyphen stripped by the frequency list,0,180,5,185
+гьапгьазир,гьап-гьазир,H1 hyphen stripped by the frequency list,0,13,7,20
+гьарангьаран,гьаран-гьаран,H1 hyphen stripped by the frequency list,1,7,5,13
+гьарбир,гьар-бир,H1 hyphen stripped by the frequency list,6,158,107,271
+гюнденгюн,гюнден-гюн,H1 hyphen stripped by the frequency list,0,13,5,18
+гюпгюп,гюп-гюп,H1 hyphen stripped by the frequency list,0,7,6,13
+гючюкъуваты,гючю-къуваты,H1 hyphen stripped by the frequency list,0,11,6,17
+дассрни,дасср-ни,H1 hyphen stripped by the frequency list,3,61,18,82
+дгпуну,дгпу-ну,H1 hyphen stripped by the frequency list,0,14,16,30
+дгугъа,дгу-гъа,H1 hyphen stripped by the frequency list,0,3,3,6
+дгуда,дгу-да,H1 hyphen stripped by the frequency list,0,7,7,14
+дгуну,дгу-ну,H1 hyphen stripped by the frequency list,9,51,62,122
+доскъардаш,дос-къардаш,H1 hyphen stripped by the frequency list,4,14,46,64
+доскъардашны,дос-къардашны,H1 hyphen stripped by the frequency list,4,23,24,51
+доскъардашы,дос-къардашы,H1 hyphen stripped by the frequency list,6,52,47,105
+доскъардашым,дос-къардашым,H1 hyphen stripped by the frequency list,0,8,8,16
+доскъардашымны,дос-къардашымны,H1 hyphen stripped by the frequency list,0,4,3,7
+доскъардашын,дос-къардашын,H1 hyphen stripped by the frequency list,0,26,13,39
+доскъардашына,дос-къардашына,H1 hyphen stripped by the frequency list,0,28,14,42
+доскъардашыны,дос-къардашыны,H1 hyphen stripped by the frequency list,0,14,3,17
+дрни,др-ни,H1 hyphen stripped by the frequency list,2,1080,27,1109
+егэге,егэ-ге,H1 hyphen stripped by the frequency list,0,12,5,17
+егэни,егэ-ни,H1 hyphen stripped by the frequency list,0,25,4,29
+жамиятполитика,жамият-политика,H1 hyphen stripped by the frequency list,1,67,5,73
+жанжанывар,жан-жанывар,H1 hyphen stripped by the frequency list,1,13,5,19
+жанжанываргъа,жан-жанываргъа,H1 hyphen stripped by the frequency list,0,3,4,7
+жанжаныварны,жан-жаныварны,H1 hyphen stripped by the frequency list,0,8,4,12
+жанынкъанын,жанын-къанын,H1 hyphen stripped by the frequency list,0,13,5,18
+жапжагьил,жап-жагьил,H1 hyphen stripped by the frequency list,1,6,13,20
+заманзаман,заман-заман,H1 hyphen stripped by the frequency list,1,23,13,37
+илмупрактика,илму-практика,H1 hyphen stripped by the frequency list,0,6,3,9
+йылданйылгъа,йылдан-йылгъа,H1 hyphen stripped by the frequency list,0,101,4,105
+кпссни,кпсс-ни,H1 hyphen stripped by the frequency list,0,58,5,63
+къабартыбалкъар,къабарты-балкъар,H1 hyphen stripped by the frequency list,0,30,3,33
+къалдыкъулдулар,къалды-къулдулар,H1 hyphen stripped by the frequency list,0,13,0,13
+къаныжаны,къаны-жаны,H1 hyphen stripped by the frequency list,1,10,10,21
+къанынжанын,къанын-жанын,H1 hyphen stripped by the frequency list,1,9,7,17
+къапкъара,къап-къара,H1 hyphen stripped by the frequency list,1,5,6,12
+къатынкъызланы,къатын-къызланы,H1 hyphen stripped by the frequency list,0,8,6,14
+къатынкъызны,къатын-къызны,H1 hyphen stripped by the frequency list,0,7,5,12
+къыйыныдерти,къыйыны-дерти,H1 hyphen stripped by the frequency list,0,3,6,9
+къыйынынтынчын,къыйынын-тынчын,H1 hyphen stripped by the frequency list,0,9,3,12
+кёпкёп,кёп-кёп,H1 hyphen stripped by the frequency list,0,93,11,104
+малматагь,мал-матагь,H1 hyphen stripped by the frequency list,2,42,11,55
+малматагьгъа,мал-матагьгъа,H1 hyphen stripped by the frequency list,0,22,4,26
+малматагьны,мал-матагьны,H1 hyphen stripped by the frequency list,1,17,7,25
+малматагьын,мал-матагьын,H1 hyphen stripped by the frequency list,1,25,8,34
+мастеркласлар,мастер-класлар,H1 hyphen stripped by the frequency list,0,6,6,12
+мвдни,мвд-ни,H1 hyphen stripped by the frequency list,0,45,9,54
+музыкалыдрама,музыкалы-драма,H1 hyphen stripped by the frequency list,0,24,9,33
+наслуданнаслугъа,наслудан-наслугъа,H1 hyphen stripped by the frequency list,1,42,7,50
+неченече,нече-нече,H1 hyphen stripped by the frequency list,1,20,46,67
+нечикалай,нечик-алай,H1 hyphen stripped by the frequency list,0,6,8,14
+ондамунда,онда-мунда,H1 hyphen stripped by the frequency list,0,12,4,16
+онданмундан,ондан-мундан,H1 hyphen stripped by the frequency list,0,13,5,18
+онумуну,ону-муну,H1 hyphen stripped by the frequency list,2,20,20,42
+отялын,от-ялын,H1 hyphen stripped by the frequency list,0,6,6,12
+оьзоьзюме,оьз-оьзюме,H1 hyphen stripped by the frequency list,0,5,6,11
+оьзоьзюн,оьз-оьзюн,H1 hyphen stripped by the frequency list,0,5,3,8
+оьзоьзюне,оьз-оьзюне,H1 hyphen stripped by the frequency list,0,14,7,21
+оьзюмоьзюмню,оьзюм-оьзюмню,H1 hyphen stripped by the frequency list,0,3,5,8
+оьзюоьзюн,оьзю-оьзюн,H1 hyphen stripped by the frequency list,0,6,3,9
+оьтегенбарагъан,оьтеген-барагъан,H1 hyphen stripped by the frequency list,0,6,5,11
+рсфсрни,рсфср-ни,H1 hyphen stripped by the frequency list,0,50,11,61
+рфни,рф-ни,H1 hyphen stripped by the frequency list,5,325,39,369
+сабурсаламат,сабур-саламат,H1 hyphen stripped by the frequency list,1,12,24,37
+савсаламат,сав-саламат,H1 hyphen stripped by the frequency list,2,61,30,93
+савсаламатлы,сав-саламатлы,H1 hyphen stripped by the frequency list,0,3,4,7
+савутсаба,савут-саба,H1 hyphen stripped by the frequency list,1,9,13,23
+савутсабаны,савут-сабаны,H1 hyphen stripped by the frequency list,3,6,25,34
+санктпетербург,санкт-петербург,H1 hyphen stripped by the frequency list,0,33,0,33
+санктпетербургда,санкт-петербургда,H1 hyphen stripped by the frequency list,0,38,8,46
+санктпетербургдагъы,санкт-петербургдагъы,H1 hyphen stripped by the frequency list,0,19,19,38
+санктпетербургдан,санкт-петербургдан,H1 hyphen stripped by the frequency list,0,11,4,15
+саппасав,саппа-сав,H1 hyphen stripped by the frequency list,0,6,3,9
+сатывалыв,сатыв-алыв,H1 hyphen stripped by the frequency list,3,177,20,200
+сонгсонг,сонг-сонг,H1 hyphen stripped by the frequency list,1,26,9,36
+сссрде,ссср-де,H1 hyphen stripped by the frequency list,0,11,3,14
+сссрни,ссср-ни,H1 hyphen stripped by the frequency list,1,218,48,267
+сулейманстальск,сулейман-стальск,H1 hyphen stripped by the frequency list,0,14,4,18
+сшада,сша-да,H1 hyphen stripped by the frequency list,0,8,3,11
+сшаны,сша-ны,H1 hyphen stripped by the frequency list,0,27,3,30
+тавларташлар,тавлар-ташлар,H1 hyphen stripped by the frequency list,0,3,3,6
+таптаза,тап-таза,H1 hyphen stripped by the frequency list,1,37,14,52
+тарыкъгерек,тарыкъ-герек,H1 hyphen stripped by the frequency list,2,30,19,51
+тахогодини,тахо-години,H1 hyphen stripped by the frequency list,0,19,9,28
+тезтез,тез-тез,H1 hyphen stripped by the frequency list,0,31,17,48
+темирханшура,темирхан-шура,H1 hyphen stripped by the frequency list,0,32,4,36
+темирханшурагъа,темир-хан-шурагъа,H1 hyphen stripped by the frequency list,0,16,3,19
+теппетенг,теппе-тенг,H1 hyphen stripped by the frequency list,0,5,4,9
+тишитырнагъына,тиши-тырнагъына,H1 hyphen stripped by the frequency list,0,6,3,9
+токсну,токс-ну,H1 hyphen stripped by the frequency list,0,26,3,29
+тухумтайпа,тухум-тайпа,H1 hyphen stripped by the frequency list,1,3,5,9
+тюрлютюрлю,тюрлю-тюрлю,H1 hyphen stripped by the frequency list,6,358,46,410
+тёкмейчачмай,тёкмей-чачмай,H1 hyphen stripped by the frequency list,0,12,10,22
+увакътюек,увакъ-тюек,H1 hyphen stripped by the frequency list,1,10,11,22
+уллууллу,уллу-уллу,H1 hyphen stripped by the frequency list,0,3,4,7
+уьйэшик,уьй-эшик,H1 hyphen stripped by the frequency list,0,19,3,22
+уьстюнбоюн,уьстюн-боюн,H1 hyphen stripped by the frequency list,0,3,3,6
+уьчдёрт,уьч-дёрт,H1 hyphen stripped by the frequency list,0,31,3,34
+фаталиханны,фатали-ханны,H1 hyphen stripped by the frequency list,0,3,3,6
+фельдшеракушер,фельдшер-акушер,H1 hyphen stripped by the frequency list,0,28,1,29
+физикаматематика,физика-математика,H1 hyphen stripped by the frequency list,1,5,6,12
+фсбни,фсб-ни,H1 hyphen stripped by the frequency list,0,14,4,18
+хамхум,хам-хум,H1 hyphen stripped by the frequency list,0,4,4,8
+хошбеш,хош-беш,H1 hyphen stripped by the frequency list,0,4,1,5
+чакъчакъда,чакъ-чакъда,H1 hyphen stripped by the frequency list,8,41,101,150
+чеберграфика,чебер-графика,H1 hyphen stripped by the frequency list,1,4,6,11
+шейитханум,шейит-ханум,H1 hyphen stripped by the frequency list,0,42,22,64
+шейитханумну,шейит-ханумну,H1 hyphen stripped by the frequency list,0,13,10,23
+эбехырлы,эбе-хырлы,H1 hyphen stripped by the frequency list,2,3,14,19
+эбибаву,эби-баву,H1 hyphen stripped by the frequency list,0,5,7,12
+эдепкъылыкъ,эдеп-къылыкъ,H1 hyphen stripped by the frequency list,1,5,6,12
+экиуьч,эки-уьч,H1 hyphen stripped by the frequency list,0,67,17,84
+эркъатын,эр-къатын,H1 hyphen stripped by the frequency list,1,17,35,53
+эркъатынны,эр-къатынны,H1 hyphen stripped by the frequency list,1,11,14,26
+эртегеч,эрте-геч,H1 hyphen stripped by the frequency list,1,5,32,38
+эсенаман,эсен-аман,H1 hyphen stripped by the frequency list,4,47,46,97
+эсермесер,эсер-месер,H1 hyphen stripped by the frequency list,0,18,11,29
+южносухокумскиде,южно-сухокумскиде,H1 hyphen stripped by the frequency list,0,5,3,8
+юмчум,юм-чум,H1 hyphen stripped by the frequency list,0,3,3,6
+юнескону,юнеско-ну,H1 hyphen stripped by the frequency list,0,12,4,16
+язывбузув,языв-бузув,H1 hyphen stripped by the frequency list,0,5,3,8
+якъякъгъа,якъ-якъгъа,H1 hyphen stripped by the frequency list,1,19,12,32
+янгыянгы,янгы-янгы,H1 hyphen stripped by the frequency list,0,26,6,32
+япянгыз,яп-янгыз,H1 hyphen stripped by the frequency list,0,7,5,12
+яртыюрту,ярты-юрту,H1 hyphen stripped by the frequency list,0,5,4,9
+яшавтуруш,яшав-туруш,H1 hyphen stripped by the frequency list,1,16,7,24
+яшавтурушу,яшав-турушу,H1 hyphen stripped by the frequency list,0,9,5,14
+яшавтурушун,яшав-турушун,H1 hyphen stripped by the frequency list,1,3,6,10
+айрокьда,айрокъда,S1 «кь» for «къ»,4,1,915,920
+акь,акъ,S1 «кь» for «къ»,8,0,314,322
+акьча,акъча,S1 «кь» for «къ»,4,0,862,866
+акьчаны,акъчаны,S1 «кь» for «къ»,4,0,139,143
+алданокь,алданокъ,S1 «кь» for «къ»,10,0,325,335
+алмакь,алмакъ,S1 «кь» for «къ»,7,0,489,496
+алъякьда,алъякъда,S1 «кь» for «къ»,10,0,162,172
+аманлыкьны,аманлыкъны,S1 «кь» for «къ»,5,0,141,146
+артыкь,артыкъ,S1 «кь» for «къ»,17,0,1435,1452
+ачыкь,ачыкъ,S1 «кь» for «къ»,8,0,870,878
+ашамлыкь,ашамлыкъ,S1 «кь» for «къ»,3,0,185,188
+байлавлукь,байлавлукъ,S1 «кь» for «къ»,9,0,230,239
+бакьгъан,бакъгъан,S1 «кь» for «къ»,3,0,537,540
+башчылыкь,башчылыкъ,S1 «кь» for «къ»,15,0,258,278
+бкь,бкъ,S1 «кь» for «къ»,3,0,44,47
+блукьгъан,блукъгъан,S1 «кь» for «къ»,3,0,4,7
+блукьма,блукъма,S1 «кь» for «къ»,3,0,11,14
+болажакь,болажакъ,S1 «кь» for «къ»,5,0,1043,1048
+болмакь,болмакъ,S1 «кь» for «къ»,3,0,308,311
+бузукь,бузукъ,S1 «кь» for «къ»,4,0,152,156
+вакьти,вакъти,S1 «кь» for «къ»,6,0,511,517
+вакьтисинде,вакътисинде,S1 «кь» for «къ»,5,0,529,534
+гьакь,гьакъ,S1 «кь» for «къ»,10,0,913,927
+далапчылыкь,далапчылыкъ,S1 «кь» for «къ»,3,0,242,245
+жаваплылыкьны,жаваплылыкъны,S1 «кь» for «къ»,3,0,28,31
+заманлыкьгъа,заманлыкъгъа,S1 «кь» for «къ»,3,0,196,199
+илиякьлы,илиякълы,S1 «кь» for «къ»,12,0,144,156
+имканлыкь,имканлыкъ,S1 «кь» for «къ»,23,0,631,659
+йыллыкь,йыллыкъ,S1 «кь» for «къ»,28,0,633,661
+йымышакь,йымышакъ,S1 «кь» for «къ»,6,0,64,70
+къазакь,къазакъ,S1 «кь» for «къ»,10,0,123,136
+къазакьны,къазакъны,S1 «кь» for «къ»,4,0,134,138
+къалажакь,къалажакъ,S1 «кь» for «къ»,3,0,126,129
+къаршылыкь,къаршылыкъ,S1 «кь» for «къ»,4,0,216,220
+къонакь,къонакъ,S1 «кь» for «къ»,5,0,145,150
+къоркъунчлукь,къоркъунчлукъ,S1 «кь» for «къ»,3,0,115,118
+къоркьма,къоркъма,S1 «кь» for «къ»,3,0,20,23
+къоччакълыкь,къоччакълыкъ,S1 «кь» for «къ»,3,0,101,104
+къоччакълыкьны,къоччакълыкъны,S1 «кь» for «къ»,3,0,82,85
+къоччакь,къоччакъ,S1 «кь» for «къ»,7,0,245,252
+къуллукь,къуллукъ,S1 «кь» for «къ»,21,0,1026,1047
+къуллукьгъа,къуллукъгъа,S1 «кь» for «къ»,3,0,139,142
+къуллукьланы,къуллукъланы,S1 «кь» for «къ»,4,0,326,330
+къуллукьну,къуллукъну,S1 «кь» for «къ»,6,0,212,218
+къуллукьчу,къуллукъчу,S1 «кь» for «къ»,4,0,92,96
+къуллукьчулар,къуллукъчулар,S1 «кь» for «къ»,3,0,192,195
+къуллукьчулары,къуллукъчулары,S1 «кь» for «къ»,6,0,512,518
+къуллукьчусу,къуллукъчусу,S1 «кь» for «къ»,9,0,321,330
+къумукь,къумукъ,S1 «кь» for «къ»,33,0,2229,2269
+къумукьланы,къумукъланы,S1 «кь» for «къ»,3,0,410,413
+къумукьлар,къумукълар,S1 «кь» for «къ»,3,0,274,277
+къумукьча,къумукъча,S1 «кь» for «къ»,8,0,100,108
+къурумчулукь,къурумчулукъ,S1 «кь» for «къ»,6,0,52,58
+къыйынлыкьлагъа,къыйынлыкълагъа,S1 «кь» for «къ»,3,0,105,117
+къылыкь,къылыкъ,S1 «кь» for «къ»,3,0,140,143
+кьайда,къайда,S1 «кь» for «къ»,3,0,602,605
+кьалышмай,къалышмай,S1 «кь» for «къ»,5,0,43,48
+кьара,къара,S1 «кь» for «къ»,3,0,588,594
+кьаршы,къаршы,S1 «кь» for «къ»,8,0,1531,1547
+кьатын,къатын,S1 «кь» for «къ»,3,0,648,651
+кьоймай,къоймай,S1 «кь» for «къ»,3,0,648,651
+кьошма,къошма,S1 «кь» for «къ»,3,0,42,45
+кьошулуп,къошулуп,S1 «кь» for «къ»,6,0,241,247
+кьошум,къошум,S1 «кь» for «къ»,7,0,549,559
+кьошуп,къошуп,S1 «кь» for «къ»,3,0,111,114
+кьоюп,къоюп,S1 «кь» for «къ»,4,0,406,410
+кьумукъ,къумукъ,S1 «кь» for «къ»,3,1,2229,2269
+кьыз,къыз,S1 «кь» for «къ»,3,0,520,523
+кьызъяшлар,къызъяшлар,S1 «кь» for «къ»,3,0,57,60
+кьыйын,къыйын,S1 «кь» for «къ»,22,1,1314,1341
+кьыйынлы,къыйынлы,S1 «кь» for «къ»,11,0,330,349
+кьыйынлыкълагъа,къыйынлыкълагъа,S1 «кь» for «къ»,4,0,105,117
+кьыйынлыкъланы,къыйынлыкъланы,S1 «кь» for «къ»,4,0,77,81
+кьыйынлыкълар,къыйынлыкълар,S1 «кь» for «къ»,4,0,75,85
+кьыйыша,къыйыша,S1 «кь» for «къ»,8,0,56,64
+кьыйышагъан,къыйышагъан,S1 «кь» for «къ»,3,0,47,50
+кьыйышмай,къыйышмай,S1 «кь» for «къ»,5,0,125,135
+кьыйышывлу,къыйышывлу,S1 «кь» for «къ»,4,0,100,104
+кьырыйында,къырыйында,S1 «кь» for «къ»,3,0,146,149
+кьырыйындагъы,къырыйындагъы,S1 «кь» for «къ»,5,0,71,79
+кьычырыкълы,къычырыкълы,S1 «кь» for «къ»,6,0,32,42
+кьычырып,къычырып,S1 «кь» for «къ»,5,0,59,67
+кьышны,къышны,S1 «кь» for «къ»,4,0,45,49
+макьсум,макъсум,S1 «кь» for «къ»,5,0,13,18
+мамукь,мамукъ,S1 «кь» for «къ»,3,0,22,25
+негьакь,негьакъ,S1 «кь» for «къ»,3,0,450,453
+ожакь,ожакъ,S1 «кь» for «къ»,3,0,170,173
+ожакьда,ожакъда,S1 «кь» for «къ»,3,0,232,235
+озокьда,озокъда,S1 «кь» for «къ»,9,0,2276,2285
+ортакъчылыкь,ортакъчылыкъ,S1 «кь» for «къ»,29,0,2646,2694
+ортакьчылыкъ,ортакъчылыкъ,S1 «кь» for «къ»,6,0,2646,2694
+ортакьчылыкь,ортакъчылыкъ,S1 «кь» for «къ»,5,0,2646,2694
+пачалыкь,пачалыкъ,S1 «кь» for «къ»,17,0,2252,2269
+рагьмулукь,рагьмулукъ,S1 «кь» for «къ»,4,0,64,68
+савлукь,савлукъ,S1 «кь» for «къ»,8,0,843,851
+сокьма,сокъма,S1 «кь» for «къ»,3,0,69,72
+сувукь,сувукъ,S1 «кь» for «къ»,5,0,164,169
+сукьланма,сукъланма,S1 «кь» for «къ»,3,0,7,10
+талчыкьма,талчыкъма,S1 «кь» for «къ»,3,0,39,42
+тарыкь,тарыкъ,S1 «кь» for «къ»,21,0,2549,2570
+темиркъазыкь,темиркъазыкъ,S1 «кь» for «къ»,9,0,451,460
+токьтагъан,токътагъан,S1 «кь» for «къ»,3,0,706,709
+токьтады,токътады,S1 «кь» for «къ»,3,0,219,222
+увакь,увакъ,S1 «кь» for «къ»,5,0,225,230
+узакь,узакъ,S1 «кь» for «къ»,7,0,766,776
+унутмажакьман,унутмажакъман,S1 «кь» for «къ»,3,0,22,25
+халкь,халкъ,S1 «кь» for «къ»,78,0,2680,2758
+халкьгъа,халкъгъа,S1 «кь» for «къ»,4,0,386,390
+халкьланы,халкъланы,S1 «кь» for «къ»,12,0,374,386
+халкьны,халкъны,S1 «кь» for «къ»,26,0,1510,1536
+чакьсыз,чакъсыз,S1 «кь» for «къ»,3,0,53,56
+чыкьгъан,чыкъгъан,S1 «кь» for «къ»,40,0,1256,1296
+чыкьгъанда,чыкъгъанда,S1 «кь» for «къ»,3,0,208,211
+чыкьды,чыкъды,S1 «кь» for «къ»,6,0,425,431
+чыкьма,чыкъма,S1 «кь» for «къ»,11,0,293,304
+чыкьмагъа,чыкъмагъа,S1 «кь» for «къ»,8,0,181,189
+чыкьмай,чыкъмай,S1 «кь» for «къ»,12,0,189,201
+ювукь,ювукъ,S1 «кь» for «къ»,51,0,1710,1761
+ювукьда,ювукъда,S1 «кь» for «къ»,6,0,145,151
+ювукьдан,ювукъдан,S1 «кь» for «къ»,6,0,142,148
+яйлыкь,яйлыкъ,S1 «кь» for «къ»,3,0,45,48
+якьгъа,якъгъа,S1 «кь» for «къ»,5,0,178,183
+якьда,якъда,S1 «кь» for «къ»,3,0,261,264
+якьдагъы,якъдагъы,S1 «кь» for «къ»,6,0,381,387
+якьдан,якъдан,S1 «кь» for «къ»,7,0,917,924
+яратывчулукь,яратывчулукъ,S1 «кь» for «къ»,8,0,301,309
+яратывчулукьну,яратывчулукъну,S1 «кь» for «къ»,3,0,38,41
+ярыкь,ярыкъ,S1 «кь» for «къ»,8,0,377,385
+яхшылыкь,яхшылыкъ,S1 «кь» for «къ»,3,0,108,111
+яшадыкь,яшадыкъ,S1 «кь» for «къ»,3,0,24,27
+ёкь,ёкъ,S1 «кь» for «къ»,38,0,2637,2675
+ёлукьма,ёлукъма,S1 «кь» for «къ»,4,0,68,72
+башчылыкьъ,башчылыкъ,S2 two signs in a row,5,0,258,278
+гьакъь,гьакъ,S2 two signs in a row,4,0,913,927
+имканлыкьъ,имканлыкъ,S2 two signs in a row,5,0,631,659
+къазакъь,къазакъ,S2 two signs in a row,3,0,123,136
+къумукъь,къумукъ,S2 two signs in a row,3,0,2229,2269
+кьъара,къара,S2 two signs in a row,3,0,588,594
+кьъаршы,къаршы,S2 two signs in a row,8,0,1531,1547
+кьъошум,къошум,S2 two signs in a row,3,0,549,559
+кьъыйын,къыйын,S2 two signs in a row,4,0,1314,1341
+кьъыйынлы,къыйынлы,S2 two signs in a row,8,0,330,349
+кьъыйынлыкълагъа,къыйынлыкълагъа,S2 two signs in a row,5,0,105,117
+кьъыйынлыкълар,къыйынлыкълар,S2 two signs in a row,6,0,75,85
+кьъыйышмай,къыйышмай,S2 two signs in a row,5,0,125,135
+кьъырыйындагъы,къырыйындагъы,S2 two signs in a row,3,0,71,79
+кьъычырыкълы,къычырыкълы,S2 two signs in a row,4,0,32,42
+кьъычырып,къычырып,S2 two signs in a row,3,0,59,67
+ортакъчылыкьъ,ортакъчылыкъ,S2 two signs in a row,8,0,2646,2694
+узакъь,узакъ,S2 two signs in a row,3,0,766,776

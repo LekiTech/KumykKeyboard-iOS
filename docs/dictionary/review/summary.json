@@ -1,0 +1,184 @@
+{
+ "input": {
+  "archive": "keyboard_data_v0.zip / keyboard_data/",
+  "files": {
+   "kum_words.sqlite": "e9f0495dac7a6f857a8049ad05cb5e3924e7908fd7448ee8a31c33fe53addc5a",
+   "kum_bigrams.sqlite": "b924c0c1696da39ff28ed15f1d7d232f73ab25cec020eabc79ece02524409c2f",
+   "kum_words.tsv": "39474e97a5e7de4dfcbca0b0fb0604140f203aed13fd6c3f52c3629e6db84582",
+   "kum_bigrams.tsv": "b8b5ae420399c976ef369e0c566b948871c04d35c598b797f787dede36d016bf",
+   "kum_stats.json": "0b274275d88b37b80ef8bd4d55ca3b94c1d175698f9ae68994d6d5389693df77"
+  },
+  "v0_generated_at": "2026-10-11T17:00:48+00:00",
+  "v0_sources": {
+   "zhd_ocr_kumyk": {
+    "kind": "ocr",
+    "sentences": 59720,
+    "tokens": 529540,
+    "dropped_russian": 9397,
+    "dup": 7280
+   },
+   "lingconlab_freq": {
+    "kind": "counts",
+    "words": 88504,
+    "tokens": 1530623
+   },
+   "apertium_kum": {
+    "kind": "lexicon",
+    "words": 4860
+   },
+   "ids": {
+    "kind": "lexicon",
+    "words": 1557
+   }
+  }
+ },
+ "audit": {
+  "words": 39325,
+  "bigrams": 44143,
+  "character_inventory": {
+   "а U+0430": 50117,
+   "н U+043D": 25809,
+   "л U+043B": 22732,
+   "р U+0440": 20345,
+   "е U+0435": 19350,
+   "и U+0438": 18795,
+   "ы U+044B": 17358,
+   "г U+0433": 16064,
+   "т U+0442": 14162,
+   "ъ U+044A": 13942,
+   "к U+043A": 13889,
+   "у U+0443": 11865,
+   "м U+043C": 11037,
+   "д U+0434": 10609,
+   "с U+0441": 9380,
+   "о U+043E": 9214,
+   "б U+0431": 7374,
+   "в U+0432": 7209,
+   "й U+0439": 5432,
+   "з U+0437": 5179,
+   "ю U+044E": 5049,
+   "ш U+0448": 4699,
+   "п U+043F": 4228,
+   "ч U+0447": 4078,
+   "ь U+044C": 3804,
+   "я U+044F": 3501,
+   "х U+0445": 1906,
+   "ж U+0436": 1889,
+   "ё U+0451": 1530,
+   "э U+044D": 1144,
+   "ф U+0444": 649,
+   "ц U+0446": 592,
+   "- U+002D": 382,
+   "щ U+0449": 59
+  },
+  "not_nfc": [],
+  "not_lowercase": [],
+  "not_canonical": [],
+  "canonical_collisions": [],
+  "contract_invalid": [],
+  "outside_alphabet": [],
+  "latin_letters": [],
+  "palochka": [],
+  "replacement_or_control_chars": [],
+  "hyphenated": 380,
+  "hyphenated_with_a_frequency_list_count": 0,
+  "score_formula_mismatch": [],
+  "count_mismatch": [],
+  "source_mix": {
+   "ocr + frequency list": 19894,
+   "frequency list": 11062,
+   "word list + ocr + frequency list": 2645,
+   "ocr": 2636,
+   "word list": 1666,
+   "word list + frequency list": 984,
+   "word list + ocr": 438
+  },
+  "in_word_lists": 5733,
+  "word_lists_only": 1666,
+  "ocr_only": 2636,
+  "ocr_only_count_3_or_4": 1609,
+  "corpus_tokens": {
+   "ocr": 475439,
+   "frequency_list": 1455487
+  },
+  "bigram_orphans": 0,
+  "bigram_weight_below_2": 0,
+  "bigram_self_pairs": [
+   "айлана айлана",
+   "апайым апайым",
+   "аста аста",
+   "вёв вёв",
+   "вёре вёре",
+   "гьай гьай",
+   "ду-ду-ду ду-ду-ду",
+   "дюр дюр",
+   "йыл йыл",
+   "ким ким",
+   "къайтып къайтып",
+   "къара къара",
+   "къатынлар къатынлар",
+   "нече нече",
+   "нчи нчи",
+   "сонг сонг",
+   "сююв сююв",
+   "туз туз",
+   "тюгюл тюгюл",
+   "тюрлю тюрлю",
+   "хыйлы хыйлы",
+   "эшите эшите",
+   "яхшы яхшы"
+  ]
+ },
+ "merges": {
+  "total": 369,
+  "by_rule": {
+   "H1 hyphen stripped by the frequency list": 219,
+   "S1 «кь» for «къ»": 132,
+   "S2 two signs in a row": 18
+  },
+  "targets": 347,
+  "tokens_moved": 9556,
+  "not_merged": 48,
+  "not_merged_by_rule": {
+   "H1 hyphen stripped by the frequency list": 41,
+   "S1 «кь» for «къ»": 2,
+   "S2 two signs in a row": 5
+  }
+ },
+ "removed": 0,
+ "flags": {
+  "words": 575,
+  "high_priority": 77,
+  "by_category": {
+   "possibly two words glued": 148,
+   "two-letter token outside the word lists": 111,
+   "no vowel": 76,
+   "э after a consonant": 72,
+   "«гь» where «гъ» is far more frequent": 52,
+   "not merged (H1)": 41,
+   "very long token": 31,
+   "possibly «гь» read as «ть»": 26,
+   "word starts with гъ": 18,
+   "same letter three times": 17,
+   "оь or уь inside a word": 10,
+   "possibly ё written as е": 7,
+   "hyphen part shorter than 2 letters": 6,
+   "not merged (S2)": 5,
+   "possibly lost ъ": 4,
+   "«гъ» where «гь» is far more frequent": 4,
+   "word starts with ь or ъ": 3,
+   "not merged (S1)": 2
+  }
+ },
+ "output": {
+  "words": 38956,
+  "bigrams": 43995,
+  "bigram_pairs_remapped": 183,
+  "bigram_pairs_combined": 148,
+  "words_unchanged_from_v0": 38609,
+  "corpus_tokens_kept": 1930926,
+  "corpus_tokens_v0": 1930926,
+  "bigram_weight_total": 198959,
+  "bigram_weight_total_v0": 198959
+ }
+}

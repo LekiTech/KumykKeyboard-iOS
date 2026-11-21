@@ -1,0 +1,576 @@
+priority,word,count,ocr_count,frequency_list_count,word_lists,base_score,categories,notes
+high,ссср-ни,267,49,218,0,2670,same letter three times,"abbreviation, interjection or noise"
+high,аа,215,2,213,0,2150,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,на,199,66,133,0,1990,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,социалэкономика,154,0,154,0,1540,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+high,гъа,150,15,135,0,1500,word starts with гъ,"Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+high,ее,133,15,118,0,1330,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,ны,110,20,90,0,1100,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,ааа,109,1,108,0,1090,same letter three times,"abbreviation, interjection or noise"
+high,бирбиревге,100,5,95,0,1000,not merged (H1),"running text: joined 5, hyphenated 23 (needs 5×); repaired form would be бир-биревге"
+high,за,96,14,82,0,960,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,гьажимурат,94,9,85,0,940,not merged (H1),"running text: joined 9, hyphenated 3 (needs 5×); repaired form would be гьажи-мурат"
+high,илмуахтарыв,91,5,86,0,910,not merged (H1),"running text: joined 5, hyphenated 12 (needs 5×); repaired form would be илму-ахтарыв"
+high,оа,88,0,88,0,880,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,атааналар,83,4,79,0,830,not merged (H1),"running text: joined 4, hyphenated 19 (needs 5×); repaired form would be ата-аналар"
+high,ма,76,11,65,0,760,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,бирбиревню,75,7,68,0,750,not merged (H1),"running text: joined 7, hyphenated 21 (needs 5×); repaired form would be бир-биревню"
+high,вю,74,2,72,0,740,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,ни,68,15,53,0,680,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,хх,65,40,25,0,650,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+high,по,64,27,37,0,640,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,яшавлукъэкономика,63,0,63,0,630,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+high,окъжая,59,0,59,1,591,not merged (H1),joined form is in a word list; repaired form would be окъ-жая
+high,си,58,4,54,0,580,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,магьамматэмин,55,9,46,0,550,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+high,бюсбютюнлей,53,9,44,0,530,not merged (H1),"running text: joined 9, hyphenated 44 (needs 5×); repaired form would be бюс-бютюнлей"
+high,го,52,52,0,0,520,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,багьышлангъан,51,51,0,0,510,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: багъышлангъан (613)
+high,е-тай,51,51,0,0,510,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+high,ае,50,2,48,0,500,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,ою,48,18,30,0,480,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,бкъ,47,47,0,0,470,no vowel,abbreviation or noise
+high,дагьы,45,44,1,0,450,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дагъы (3569)
+high,бирнече,44,1,43,0,440,possibly two words glued,attested word pair: бир нече (318)
+high,еее,44,0,44,0,440,same letter three times,"abbreviation, interjection or noise"
+high,негетюгюл,44,44,0,0,440,possibly two words glued,attested word pair: неге тюгюл (282)
+high,спк,43,1,42,0,430,no vowel,abbreviation or noise
+high,ба,42,4,38,0,420,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,жкх,39,1,38,0,390,no vowel,abbreviation or noise
+high,санкт-петербургдагъы,38,19,19,0,380,very long token,possibly glued words
+high,тьакъында,38,38,0,0,380,possibly «гь» read as «ть»,attested with гь: гьакъында (3816)
+high,мчсни,34,2,32,0,340,not merged (H1),"running text: joined 2, hyphenated 8 (needs 5×); repaired form would be мчс-ни"
+high,сы,34,4,30,0,340,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,ги,33,24,9,0,330,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,би,32,8,24,0,320,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,бо,32,3,29,0,320,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,ра,32,7,25,0,320,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,егэ,31,5,26,1,311,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+high,ингалдын,31,31,0,0,310,possibly two words glued,attested word pair: инг алдын (103)
+high,мфц,31,1,30,0,310,no vowel,abbreviation or noise
+high,бэлла,29,8,21,1,291,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+high,егэ-ни,29,4,25,0,290,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+high,рд,29,10,19,1,291,no vowel,abbreviation or noise
+high,ссср,29,9,20,1,291,no vowel; same letter three times,"abbreviation or noise; abbreviation, interjection or noise"
+high,тьар,28,28,0,0,280,possibly «гь» read as «ть»,attested with гь: гьар (6638)
+high,багьып,27,27,0,0,270,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: багъып (531)
+high,ли,27,6,21,0,270,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,ргвк,27,15,12,0,270,no vowel,abbreviation or noise
+high,гьартюрлю,26,23,3,0,260,possibly two words glued,attested word pair: гьар тюрлю (470)
+high,дагьыстанлы,26,26,0,0,260,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дагъыстанлы (582)
+high,аааа,25,0,25,0,250,same letter three times,"abbreviation, interjection or noise"
+high,багъа,25,8,17,0,250,«гъ» where «гь» is far more frequent,possibly ъ and ь confused; attested: багьа (293)
+high,сю,25,1,24,0,250,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,болаэди,24,24,0,0,240,possibly two words glued,attested word pair: бола эди (309)
+high,яя,24,7,17,0,240,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,ту,23,6,17,0,230,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,са,22,0,22,0,220,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,сувукъсалкъын,22,3,19,0,220,not merged (H1),"running text: joined 3, hyphenated 9 (needs 5×); repaired form would be сувукъ-салкъын"
+high,булангьы,21,21,0,0,210,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: булангъы (2270)
+high,гр,21,0,21,0,210,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+high,ди,21,8,13,0,210,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,онданкъайры,21,21,0,0,210,possibly two words glued,attested word pair: ондан къайры (385)
+high,тьали,21,21,0,0,210,possibly «гь» read as «ть»,attested with гь: гьали (3939)
+high,атааналарыны,20,2,18,0,200,not merged (H1),"running text: joined 2, hyphenated 3 (needs 5×); repaired form would be ата-аналарыны"
+high,ву,20,1,19,0,200,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,ды,20,4,16,0,200,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,мы,20,2,18,0,200,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+high,тюзюнайтгъанда,20,20,0,0,200,possibly two words glued,attested word pair: тюзюн айтгъанда (164)
+normal,ар,19,2,17,0,190,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,бирденэки,19,1,18,0,190,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,ки,19,5,14,0,190,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,ню,19,0,19,0,190,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,ов,19,1,18,0,190,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,су,19,3,16,0,190,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,тю,19,2,17,0,190,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,ка,18,4,14,0,180,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,кэмз,18,0,18,0,180,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,ха,18,2,16,0,180,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,халкъарада,18,5,13,0,180,possibly two words glued,attested word pair: халкъ арада (19)
+normal,ап,17,5,12,0,170,two-letter token outside the word lists; not merged (H1),"suffix written after a numeral or an abbreviation, interjection or noise; running text: joined 5, hyphenated 3 (needs 5×); repaired form would be а-п"
+normal,атабабаларындан,17,3,14,0,170,not merged (H1),"running text: joined 3, hyphenated 11 (needs 5×); repaired form would be ата-бабаларындан"
+normal,вв,17,1,16,0,170,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,егэ-ге,17,5,12,0,170,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,кфх,17,0,17,0,170,no vowel,abbreviation or noise
+normal,къайсынбирин,17,2,15,0,170,not merged (H1),"running text: joined 2, hyphenated 6 (needs 5×); repaired form would be къайсын-бирин"
+normal,къайтыпкъайтып,17,3,14,0,170,not merged (H1),"running text: joined 3, hyphenated 14 (needs 5×); repaired form would be къайтып-къайтып"
+normal,лу,17,12,5,0,170,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,мисалучун,17,17,0,0,170,possibly two words glued,attested word pair: мисал учун (216)
+normal,мтс,17,0,17,1,171,no vowel,abbreviation or noise
+normal,тарыкъгерекни,17,4,13,0,170,not merged (H1),"running text: joined 4, hyphenated 4 (needs 5×); repaired form would be тарыкъ-герекни"
+normal,хыйлыхыйлы,17,1,16,0,170,not merged (H1),"running text: joined 1, hyphenated 4 (needs 5×); repaired form would be хыйлы-хыйлы"
+normal,ша,17,2,15,0,170,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,жа,16,1,15,0,160,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,йи,16,0,16,0,160,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,мр,16,3,13,1,161,no vowel,abbreviation or noise
+normal,нчийылда,16,16,0,0,160,possibly two words glued,attested word pair: нчи йылда (247)
+normal,ти,16,7,9,0,160,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,алигьажи,15,4,11,0,150,not merged (H1),"running text: joined 4, hyphenated 8 (needs 5×); repaired form would be али-гьажи"
+normal,ао,15,3,12,0,150,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,барэди,15,15,0,0,150,possibly two words glued; э after a consonant,"attested word pair: бар эди (380); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,бирибиринден,15,1,14,0,150,not merged (H1),"running text: joined 1, hyphenated 4 (needs 5×); repaired form would be бири-биринден"
+normal,ооо,15,1,14,0,150,same letter three times,"abbreviation, interjection or noise"
+normal,аллать,14,14,0,0,140,possibly «гь» read as «ть»,attested with гь: аллагь (605)
+normal,гьалынгюнюн,14,1,13,0,140,not merged (H1),"running text: joined 1, hyphenated 3 (needs 5×); repaired form would be гьалын-гюнюн"
+normal,доскъардашгъа,14,3,11,0,140,not merged (H1),"running text: joined 3, hyphenated 10 (needs 5×); repaired form would be дос-къардашгъа"
+normal,кбп,14,14,0,0,140,no vowel,abbreviation or noise
+normal,ссср-де,14,3,11,0,140,same letter three times,"abbreviation, interjection or noise"
+normal,атааналарына,13,1,12,0,130,not merged (H1),"running text: joined 1, hyphenated 3 (needs 5×); repaired form would be ата-аналарына"
+normal,биргюн,13,13,0,0,130,possibly two words glued,attested word pair: бир гюн (126)
+normal,биртюрлю,13,13,0,0,130,possibly two words glued,attested word pair: бир тюрлю (122)
+normal,дю,13,2,11,0,130,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,их,13,13,0,0,130,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,лпх,13,0,13,0,130,no vowel,abbreviation or noise
+normal,мл,13,5,8,0,130,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,мтз,13,0,13,0,130,no vowel,abbreviation or noise
+normal,но,13,2,11,0,130,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,финансэкономика,13,2,11,0,130,э after a consonant; not merged (H1),"Kumyk writes э word-initially: glued words, an abbreviation or a loan; running text: joined 2, hyphenated 4 (needs 5×); repaired form would be финанс-экономика"
+normal,алдагьы,12,12,0,0,120,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: алдагъы (796)
+normal,атааналагъа,12,2,10,0,120,not merged (H1),"running text: joined 2, hyphenated 7 (needs 5×); repaired form would be ата-аналагъа"
+normal,гтрк,12,11,1,0,120,no vowel,abbreviation or noise
+normal,зу,12,5,7,0,120,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,къарабудагъгентлилер,12,1,11,0,120,very long token,possibly glued words
+normal,мз,12,0,12,0,120,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,со,12,4,8,0,120,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,тхэквондо,12,0,12,0,120,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,тюппетюз,12,1,11,0,120,not merged (H1),"running text: joined 1, hyphenated 4 (needs 5×); repaired form would be тюппе-тюз"
+normal,этеэди,12,12,0,0,120,possibly two words glued,attested word pair: эте эди (272)
+normal,атаманама,11,3,8,0,110,not merged (H1),"running text: joined 3, hyphenated 10 (needs 5×); repaired form would be атам-анама"
+normal,ид,11,1,10,0,110,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,йй,11,0,11,0,110,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,магьа,11,8,3,0,110,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: магъа (2234)
+normal,пи,11,11,0,0,110,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,ст,11,9,2,0,110,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,сё,11,10,1,0,110,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,береэди,10,10,0,0,100,possibly two words glued,attested word pair: бере эди (95)
+normal,биргезик,10,10,0,0,100,possibly two words glued,attested word pair: бир гезик (173)
+normal,бирзат,10,10,0,0,100,possibly two words glued,attested word pair: бир зат (221)
+normal,булантаныш,10,10,0,0,100,possibly two words glued,attested word pair: булан таныш (141)
+normal,бы,10,10,0,0,100,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,гьакъындагьы,10,10,0,0,100,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гьакъындагъы (319)
+normal,гёзалгъа,10,4,6,0,100,possibly two words glued,attested word pair: гёз алгъа (108)
+normal,дагьыстанны,10,9,1,0,100,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дагъыстанны (3479)
+normal,ир,10,10,0,0,100,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,кг,10,2,8,0,100,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,мгь,10,0,10,0,100,no vowel,abbreviation or noise
+normal,нм,10,0,10,0,100,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,оааа,10,0,10,0,100,same letter three times,"abbreviation, interjection or noise"
+normal,огьар,10,6,4,0,100,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: огъар (2640)
+normal,ое,10,7,3,0,100,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,пайдаландырылмайгъаны,10,0,10,0,100,very long token,possibly glued words
+normal,ри,10,4,6,0,100,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,тьакъындагъы,10,10,0,0,100,possibly «гь» read as «ть»,attested with гь: гьакъындагъы (319)
+normal,тьалиги,10,10,0,0,100,possibly «гь» read as «ть»,attested with гь: гьалиги (1638)
+normal,эсгеала,10,10,0,0,100,possibly two words glued,attested word pair: эсге ала (186)
+normal,ам,9,1,8,0,90,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,артдагьы,9,8,1,0,90,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: артдагъы (1506)
+normal,бирдагьы,9,8,1,0,90,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: бирдагъы (982)
+normal,бирзатны,9,9,0,0,90,possibly two words glued,attested word pair: бир затны (83)
+normal,болгьан,9,8,1,0,90,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: болгъан (6469)
+normal,болуптокътай,9,9,0,0,90,possibly two words glued,attested word pair: болуп токътай (116)
+normal,вкь,9,9,0,0,90,no vowel; not merged (S1),abbreviation or noise; repaired form is not attested in the data; repaired form would be вкъ
+normal,грэпплинг,9,0,9,0,90,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,гъанны,9,2,7,0,90,word starts with гъ,"Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гэслени,9,0,9,0,90,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,гэсни,9,2,7,0,90,э after a consonant; not merged (H1),"Kumyk writes э word-initially: glued words, an abbreviation or a loan; running text: joined 2, hyphenated 5 (needs 5×); repaired form would be гэс-ни"
+normal,дэп,9,0,9,0,90,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,квм,9,0,9,0,90,no vowel,abbreviation or noise
+normal,ко,9,4,5,0,90,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,къайгьылы,9,9,0,0,90,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: къайгъылы (121)
+normal,къэди,9,9,0,0,90,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,москвадагьы,9,9,0,0,90,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: москвадагъы (182)
+normal,мчс,9,0,9,0,90,no vowel,abbreviation or noise
+normal,рф,9,3,6,1,91,no vowel,abbreviation or noise
+normal,сагьа,9,8,1,0,90,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: сагъа (786)
+normal,сюеэди,9,9,0,0,90,possibly two words glued,attested word pair: сюе эди (77)
+normal,ых,9,9,0,0,90,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,аб,8,1,7,0,80,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,бирбирибиз,8,2,6,0,80,not merged (H1),"running text: joined 2, hyphenated 8 (needs 5×); repaired form would be бир-бирибиз"
+normal,болуптокътады,8,8,0,0,80,possibly two words glued,attested word pair: болуп токътады (66)
+normal,гъали,8,8,0,0,80,«гъ» where «гь» is far more frequent; word starts with гъ,"possibly ъ and ь confused; attested: гьали (3939); Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гючкъуват,8,2,6,0,80,not merged (H1),"running text: joined 2, hyphenated 9 (needs 5×); repaired form would be гюч-къуват"
+normal,ду,8,3,5,0,80,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,йы,8,0,8,0,80,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,йылалъякъда,8,8,0,0,80,possibly two words glued,attested word pair: йыл алъякъда (61)
+normal,ле,8,3,5,0,80,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,мс,8,0,8,0,80,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,мэри,8,3,5,0,80,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,нчийылны,8,8,0,0,80,possibly two words glued,attested word pair: нчи йылны (70)
+normal,олоьзюню,8,8,0,0,80,оь or уь inside a word,Kumyk writes оь and уь word-initially: possibly glued words
+normal,росссияны,8,0,8,0,80,same letter three times,"abbreviation, interjection or noise"
+normal,см,8,0,8,1,81,no vowel,abbreviation or noise
+normal,темирхан,8,2,6,0,80,not merged (H1),"running text: joined 2, hyphenated 6 (needs 5×); repaired form would be темир-хан"
+normal,шогьар,8,2,6,0,80,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: шогъар (1386)
+normal,юртхозяйство,8,1,7,0,80,possibly two words glued,attested word pair: юрт хозяйство (34)
+normal,атьмат,7,7,0,0,70,possibly «гь» read as «ть»,attested with гь: агьмат (395)
+normal,болмагерек,7,7,0,0,70,possibly two words glued,attested word pair: болма герек (67)
+normal,болмайэди,7,7,0,0,70,possibly two words glued; э after a consonant,"attested word pair: болмай эди (106); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,бугюнгеерли,7,7,0,0,70,possibly two words glued,attested word pair: бугюнге ерли (30)
+normal,ватандашланыкъоллавчуланы,7,0,7,0,70,very long token,possibly glued words
+normal,гъыстан,7,0,7,0,70,word starts with гъ,"Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гьаргюн,7,7,0,0,70,possibly two words glued,attested word pair: гьар гюн (116)
+normal,гё,7,1,6,0,70,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,е-той,7,7,0,0,70,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+normal,еа,7,0,7,0,70,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,егэлени,7,0,7,0,70,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,ееее,7,0,7,0,70,same letter three times,"abbreviation, interjection or noise"
+normal,жамиятэкономика,7,0,7,0,70,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,къайгъырышагъаныбызны,7,1,6,0,70,very long token,possibly glued words
+normal,къалгьан,7,7,0,0,70,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: къалгъан (1464)
+normal,мвт,7,0,7,0,70,no vowel,abbreviation or noise
+normal,огьъар,7,7,0,0,70,not merged (S2),"two attested readings: огъар (2640), огьар (10); repaired form would be огъар / огьар"
+normal,олагьа,7,7,0,0,70,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: олагъа (1423)
+normal,оьзюоьзюне,7,1,6,0,70,оь or уь inside a word; not merged (H1),"Kumyk writes оь and уь word-initially: possibly glued words; running text: joined 1, hyphenated 3 (needs 5×); repaired form would be оьзю-оьзюне"
+normal,пр-т,7,7,0,0,70,no vowel; hyphen part shorter than 2 letters,abbreviation or noise; abbreviation or broken hyphenation
+normal,рр,7,3,4,0,70,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,умутэте,7,7,0,0,70,possibly two words glued; э after a consonant,"attested word pair: умут эте (92); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,ча,7,7,0,0,70,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,шонубулан,7,7,0,0,70,possibly two words glued,attested word pair: шону булан (153)
+normal,адат-къылыкъларыбызны,6,3,3,0,60,very long token,possibly glued words
+normal,айтдыкъуйтду,6,1,5,0,60,not merged (H1),"running text: joined 1, hyphenated 3 (needs 5×); repaired form would be айтды-къуйтду"
+normal,акъоьзенни,6,0,6,0,60,оь or уь inside a word,Kumyk writes оь and уь word-initially: possibly glued words
+normal,атындагьы,6,6,0,0,60,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: атындагъы (676)
+normal,багьышланып,6,6,0,0,60,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: багъышланып (97)
+normal,башлапгьы,6,6,0,0,60,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: башлапгъы (381)
+normal,ве,6,6,0,0,60,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,гбк,6,6,0,0,60,no vowel,abbreviation or noise
+normal,гъинденбургъ,6,0,6,0,60,word starts with гъ,"Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гъубарна,6,0,6,0,60,word starts with гъ,"Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гьарзаман,6,6,0,0,60,possibly two words glued,attested word pair: гьар заман (55)
+normal,дагьыстан,6,5,1,0,60,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дагъыстан (2882)
+normal,дагьыстанда,6,4,2,0,60,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дагъыстанда (1329)
+normal,днц,6,6,0,0,60,no vowel,abbreviation or noise
+normal,др,6,1,5,1,61,no vowel,abbreviation or noise
+normal,екъ,6,6,0,0,60,possibly ё written as е,attested with ё: ёкъ (2675)
+normal,иа,6,1,5,0,60,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,къабартыбалкъариядан,6,0,6,0,60,very long token,possibly glued words
+normal,къайсынбирисин,6,4,2,0,60,not merged (H1),"running text: joined 4, hyphenated 6 (needs 5×); repaired form would be къайсын-бирисин"
+normal,къарабудагъгентлилени,6,1,5,0,60,very long token,possibly glued words
+normal,кё,6,1,5,0,60,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,магьачкъаладагьы,6,6,0,0,60,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: магьачкъаладагъы (337)
+normal,маданият-ярыкъландырывчу,6,6,0,0,60,very long token,possibly glued words
+normal,маданиятярыкъландырыв,6,0,6,0,60,very long token,possibly glued words
+normal,мвд,6,0,6,1,61,no vowel,abbreviation or noise
+normal,мк,6,0,6,0,60,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,мм,6,1,5,1,61,no vowel,abbreviation or noise
+normal,мн,6,0,6,0,60,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,нчыйылда,6,6,0,0,60,possibly two words glued,attested word pair: нчы йылда (68)
+normal,охуйэди,6,6,0,0,60,possibly two words glued; э after a consonant,"attested word pair: охуй эди (39); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,сср,6,5,1,0,60,no vowel,abbreviation or noise
+normal,тувупоьсген,6,0,6,0,60,оь or уь inside a word,Kumyk writes оь and уь word-initially: possibly glued words
+normal,тураэди,6,6,0,0,60,possibly two words glued,attested word pair: тура эди (86)
+normal,тьакъ,6,6,0,0,60,possibly «гь» read as «ть»,attested with гь: гьакъ (927)
+normal,тьатта,6,6,0,0,60,possibly «гь» read as «ть»,attested with гь: гьатта (888)
+normal,тьис,6,6,0,0,60,possibly «гь» read as «ть»,attested with гь: гьис (610)
+normal,ху,6,5,1,0,60,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,чагьындагъы,6,6,0,0,60,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: чагъындагъы (169)
+normal,чиркейгэсстрой,6,0,6,0,60,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,шонугьакъында,6,6,0,0,60,possibly two words glued,attested word pair: шону гьакъында (32)
+normal,эсимегеле,6,6,0,0,60,possibly two words glued,attested word pair: эсиме геле (116)
+normal,якъдагьы,6,6,0,0,60,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: якъдагъы (387)
+normal,ааааа,5,0,5,0,50,same letter three times,"abbreviation, interjection or noise"
+normal,алгьыш,5,5,0,0,50,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: алгъыш (54)
+normal,аллагьгьа,5,5,0,0,50,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: аллагьгъа (144)
+normal,ачыпчечип,5,1,4,0,50,not merged (H1),"running text: joined 1, hyphenated 3 (needs 5×); repaired form would be ачып-чечип"
+normal,аякъуьстге,5,0,5,0,50,оь or уь inside a word,Kumyk writes оь and уь word-initially: possibly glued words
+normal,бакъгъанякъдагъы,5,5,0,0,50,possibly two words glued,attested word pair: бакъгъан якъдагъы (77)
+normal,башгьа,5,3,2,0,50,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: башгъа (1967)
+normal,белгисизтас,5,5,0,0,50,possibly two words glued,attested word pair: белгисиз тас (13)
+normal,береэдим,5,5,0,0,50,possibly two words glued,attested word pair: бере эдим (12)
+normal,билеэди,5,5,0,0,50,possibly two words glued,attested word pair: биле эди (60)
+normal,бирзаманда,5,5,0,0,50,possibly two words glued,attested word pair: бир заманда (105)
+normal,болгъанэкен,5,5,0,0,50,possibly two words glued; э after a consonant,"attested word pair: болгъан экен (75); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,бю,5,0,5,0,50,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,воллать,5,5,0,0,50,possibly «гь» read as «ть»,attested with гь: воллагь (145)
+normal,гбз,5,5,0,0,50,no vowel,abbreviation or noise
+normal,гъанда,5,0,5,0,50,word starts with гъ,"Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гэс-ни,5,5,0,0,50,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,гю,5,0,5,0,50,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,дагэлектроавтомат,5,0,5,0,50,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,депэсимегеле,5,5,0,0,50,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,ерлиерине,5,1,4,0,50,not merged (H1),"running text: joined 1, hyphenated 4 (needs 5×); repaired form would be ерли-ерине"
+normal,ие,5,4,1,0,50,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,индустриализациялашдырыв,5,0,5,0,50,very long token,possibly glued words
+normal,ичипэсирип,5,0,5,0,50,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,ишэтип,5,5,0,0,50,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,магьамматсайитовнаны,5,5,0,0,50,very long token,possibly glued words
+normal,нечекерен,5,5,0,0,50,possibly two words glued,attested word pair: нече керен (70)
+normal,онубиринчи,5,5,0,0,50,possibly two words glued,attested word pair: ону биринчи (13)
+normal,онубулан,5,5,0,0,50,possibly two words glued,attested word pair: ону булан (179)
+normal,ооону,5,0,5,0,50,same letter three times,"abbreviation, interjection or noise"
+normal,охуматюшдюм,5,5,0,0,50,possibly two words glued,attested word pair: охума тюшдюм (25)
+normal,приватизациялашдырывну,5,0,5,0,50,very long token,possibly glued words
+normal,ск,5,2,3,0,50,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,смс,5,4,1,0,50,no vowel,abbreviation or noise
+normal,сонгону,5,5,0,0,50,possibly two words glued,attested word pair: сонг ону (28)
+normal,сс,5,1,4,0,50,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,сссрге,5,0,5,0,50,same letter three times,"abbreviation, interjection or noise"
+normal,темиркъазыкъгюнтувуш,5,0,5,0,50,very long token,possibly glued words
+normal,тьакъда,5,5,0,0,50,possibly «гь» read as «ть»,attested with гь: гьакъда (2305)
+normal,тьисап,5,5,0,0,50,possibly «гь» read as «ть»,attested with гь: гьисап (634)
+normal,тьисапда,5,5,0,0,50,possibly «гь» read as «ть»,attested with гь: гьисапда (1556)
+normal,фе,5,5,0,0,50,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,ювукъадамлары,5,5,0,0,50,possibly two words glued,attested word pair: ювукъ адамлары (24)
+normal,ёкъэди,5,5,0,0,50,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,абзаруьйге,4,0,4,0,40,оь or уь inside a word,Kumyk writes оь and уь word-initially: possibly glued words
+normal,айрычатергев,4,4,0,0,40,possibly two words glued,attested word pair: айрыча тергев (37)
+normal,айтсагьыз,4,4,0,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: айтсагъыз (50)
+normal,ак,4,1,3,0,40,possibly lost ъ; two-letter token outside the word lists,"attested with ъ: акъ (322); suffix written after a numeral or an abbreviation, interjection or noise"
+normal,аллагьбуюрса,4,4,0,0,40,possibly two words glued,attested word pair: аллагь буюрса (30)
+normal,анатилинде,4,4,0,0,40,possibly two words glued,attested word pair: ана тилинде (24)
+normal,анатиллени,4,4,0,0,40,possibly two words glued,attested word pair: ана тиллени (35)
+normal,артындагьы,4,3,1,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: артындагъы (129)
+normal,бараэди,4,4,0,0,40,possibly two words glued,attested word pair: бара эди (61)
+normal,башгъатюгюл,4,4,0,0,40,possibly two words glued,attested word pair: башгъа тюгюл (67)
+normal,бизону,4,4,0,0,40,possibly two words glued,attested word pair: биз ону (66)
+normal,биргьавур,4,1,3,0,40,possibly two words glued,attested word pair: бир гьавур (15)
+normal,бирзатгъа,4,4,0,0,40,possibly two words glued,attested word pair: бир затгъа (59)
+normal,бирэкисин,4,0,4,0,40,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,боларэди,4,4,0,0,40,possibly two words glued; э after a consonant,"attested word pair: болар эди (55); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,болупкъалды,4,4,0,0,40,possibly two words glued,attested word pair: болуп къалды (32)
+normal,буланбирче,4,4,0,0,40,possibly two words glued,attested word pair: булан бирче (209)
+normal,гезелликни,4,4,0,0,40,possibly ё written as е,attested with ё: гёзелликни (48)
+normal,гек,4,4,0,0,40,possibly ё written as е,attested with ё: гёк (66)
+normal,гъайратлы,4,0,4,0,40,word starts with гъ,"Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гъанлар,4,0,4,0,40,word starts with гъ,"Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гъатта,4,4,0,0,40,«гъ» where «гь» is far more frequent; word starts with гъ,"possibly ъ and ь confused; attested: гьатта (888); Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гъенарал,4,0,4,0,40,word starts with гъ,"Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гъу,4,3,1,0,40,word starts with гъ,"Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гъыз,4,0,4,0,40,word starts with гъ,"Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гъыстанлы,4,1,3,0,40,word starts with гъ,"Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гъыстанны,4,0,4,0,40,word starts with гъ,"Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гьалгьа,4,3,1,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: гьалгъа (219)
+normal,гьисапэте,4,4,0,0,40,possibly two words glued; э after a consonant,"attested word pair: гьисап эте (78); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,гьуягьарай,4,1,3,0,40,not merged (H1),"running text: joined 1, hyphenated 3 (needs 5×); repaired form would be гьуя-гьарай"
+normal,гэсде,4,0,4,0,40,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,гэслер,4,0,4,0,40,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,дагьысын,4,4,0,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дагъысын (131)
+normal,дейэди,4,4,0,0,40,possibly two words glued; э after a consonant,"attested word pair: дей эди (83); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,депайта,4,4,0,0,40,possibly two words glued,attested word pair: деп айта (93)
+normal,дэн,4,0,4,0,40,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,дюньягъаайтылгъан,4,4,0,0,40,possibly two words glued,attested word pair: дюньягъа айтылгъан (10)
+normal,егэден,4,0,4,0,40,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,ерерден,4,1,3,0,40,not merged (H1),"running text: joined 1, hyphenated 3 (needs 5×); repaired form would be ер-ерден"
+normal,жагьиладам,4,4,0,0,40,possibly two words glued,attested word pair: жагьил адам (31)
+normal,желалэтдин,4,0,4,0,40,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,жх,4,4,0,0,40,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,зы,4,3,1,0,40,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,инвесторланымаячыланы,4,0,4,0,40,very long token,possibly glued words
+normal,ингбашлап,4,4,0,0,40,possibly two words glued,attested word pair: инг башлап (69)
+normal,кадиев,4,0,4,0,40,possibly lost ъ,attested with ъ: къадиев (47)
+normal,кл,4,0,4,0,40,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,къакъашуралыатлыбоюнлу,4,0,4,0,40,very long token,possibly glued words
+normal,къарабудагьгент,4,3,1,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: къарабудагъгент (570)
+normal,къарайэди,4,4,0,0,40,possibly two words glued; э after a consonant,"attested word pair: къарай эди (114); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,къастэте,4,4,0,0,40,possibly two words glued; э after a consonant,"attested word pair: къаст эте (40); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,къастэтебиз,4,4,0,0,40,possibly two words glued; э after a consonant,"attested word pair: къаст этебиз (24); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,кёпзат,4,4,0,0,40,possibly two words glued,attested word pair: кёп зат (62)
+normal,кёпзатны,4,4,0,0,40,possibly two words glued,attested word pair: кёп затны (44)
+normal,мангболуп,4,4,0,0,40,possibly two words glued,attested word pair: манг болуп (20)
+normal,менгьали,4,4,0,0,40,possibly two words glued,attested word pair: мен гьали (39)
+normal,мениатам,4,4,0,0,40,possibly two words glued,attested word pair: мени атам (28)
+normal,ми,4,4,0,0,40,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,мунагьали,4,3,1,0,40,possibly two words glued,attested word pair: муна гьали (41)
+normal,мэрини,4,1,3,0,40,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,нчуйылда,4,4,0,0,40,possibly two words glued,attested word pair: нчу йылда (64)
+normal,нчюйылда,4,4,0,0,40,possibly two words glued,attested word pair: нчю йылда (84)
+normal,об,4,1,3,0,40,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,олармени,4,4,0,0,40,possibly two words glued,attested word pair: олар мени (42)
+normal,онуанасы,4,4,0,0,40,possibly two words glued,attested word pair: ону анасы (18)
+normal,онугьакъында,4,4,0,0,40,possibly two words glued,attested word pair: ону гьакъында (38)
+normal,пистипистисине,4,1,3,0,40,not merged (H1),"running text: joined 1, hyphenated 3 (needs 5×); repaired form would be писти-пистисине"
+normal,предпринимателлерини,4,0,4,0,40,very long token,possibly glued words
+normal,рагьатсызландырагъан,4,0,4,0,40,very long token,possibly glued words
+normal,ржд,4,1,3,0,40,no vowel,abbreviation or noise
+normal,русскомлабасаранском,4,4,0,0,40,very long token,possibly glued words
+normal,рэлдарова,4,0,4,0,40,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,сонгбир,4,4,0,0,40,possibly two words glued,attested word pair: сонг бир (35)
+normal,сонгбирден,4,4,0,0,40,possibly two words glued,attested word pair: сонг бирден (18)
+normal,текгьали,4,4,0,0,40,possibly two words glued,attested word pair: тек гьали (17)
+normal,текмен,4,4,0,0,40,possibly two words glued,attested word pair: тек мен (107)
+normal,темиркъазыкъгюнбатыш,4,0,4,0,40,very long token,possibly glued words
+normal,тоттенхэм,4,0,4,0,40,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,тувгьан,4,4,0,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: тувгъан (897)
+normal,тураэдим,4,4,0,0,40,possibly two words glued,attested word pair: тура эдим (40)
+normal,тхэквондодан,4,0,4,0,40,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,тьазирлейген,4,4,0,0,40,possibly «гь» read as «ть»,attested with гь: гьазирлейген (229)
+normal,тьакъыллы,4,4,0,0,40,possibly «гь» read as «ть»,attested with гь: гьакъыллы (244)
+normal,тьалда,4,4,0,0,40,possibly «гь» read as «ть»,attested with гь: гьалда (951)
+normal,узакъдакъалмай,4,4,0,0,40,possibly two words glued,attested word pair: узакъда къалмай (23)
+normal,уьйэшиги,4,1,3,0,40,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,уьйэшигин,4,0,4,0,40,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,уьйэшикни,4,1,3,0,40,э after a consonant; not merged (H1),"Kumyk writes э word-initially: glued words, an abbreviation or a loan; running text: joined 1, hyphenated 3 (needs 5×); repaired form would be уьй-эшикни"
+normal,хгх,4,4,0,0,40,no vowel,abbreviation or noise
+normal,шб,4,0,4,0,40,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,школадагьы,4,4,0,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: школадагъы (74)
+normal,шх,4,0,4,0,40,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,ьали,4,4,0,0,40,word starts with ь or ъ,possibly OCR
+normal,этеэдим,4,4,0,0,40,possibly two words glued,attested word pair: эте эдим (93)
+normal,ягъарлыкъэнергетика,4,0,4,0,40,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,яшавгьа,4,3,1,0,40,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: яшавгъа (2114)
+normal,а-п,3,3,0,0,30,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+normal,аграрэкономика,3,0,3,0,30,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,адамланыкъоллавчуланы,3,0,3,0,30,very long token,possibly glued words
+normal,администрацияларында,3,0,3,0,30,very long token,possibly glued words
+normal,аеее,3,0,3,0,30,same letter three times,"abbreviation, interjection or noise"
+normal,айланыпбитген,3,3,0,0,30,possibly two words glued,attested word pair: айланып битген (19)
+normal,айслэнд,3,0,3,0,30,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,айтагьанны,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: айтагъанны (63)
+normal,акъоьзен,3,0,3,0,30,оь or уь inside a word,Kumyk writes оь and уь word-initially: possibly glued words
+normal,алдабир,3,3,0,0,30,possibly two words glued,attested word pair: алда бир (34)
+normal,арсланкъаплан,3,3,0,1,31,not merged (H1),joined form is in a word list; repaired form would be арслан-къаплан
+normal,ахырынаерли,3,3,0,0,30,possibly two words glued,attested word pair: ахырына ерли (22)
+normal,багъьышлангъан,3,3,0,0,30,not merged (S2),"two attested readings: багъышлангъан (613), багьышлангъан (51); repaired form would be багъышлангъан / багьышлангъан"
+normal,багьъышлангъан,3,3,0,0,30,not merged (S2),"two attested readings: багъышлангъан (613), багьышлангъан (51); repaired form would be багъышлангъан / багьышлангъан"
+normal,багьъышлап,3,3,0,0,30,not merged (S2),"two attested readings: багъышлап (108), багьышлап (15); repaired form would be багъышлап / багьышлап"
+normal,бажараэди,3,3,0,0,30,possibly two words glued,attested word pair: бажара эди (18)
+normal,бектамаша,3,3,0,0,30,possibly two words glued,attested word pair: бек тамаша (51)
+normal,бекяхшы,3,3,0,0,30,possibly two words glued,attested word pair: бек яхшы (58)
+normal,бестужев-марлинскийни,3,3,0,0,30,very long token,possibly glued words
+normal,бизбир,3,3,0,0,30,possibly two words glued,attested word pair: биз бир (43)
+normal,бирерге,3,3,0,0,30,possibly two words glued,attested word pair: бир ерге (38)
+normal,бирэкилени,3,0,3,0,30,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,бишшш,3,0,3,0,30,same letter three times,"abbreviation, interjection or noise"
+normal,бкъэди,3,3,0,0,30,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,блукьмай,3,3,0,0,30,not merged (S1),repaired form is not attested in the data; repaired form would be блукъмай
+normal,боладеп,3,0,3,0,30,possibly two words glued,attested word pair: бола деп (42)
+normal,болатуруп,3,3,0,0,30,possibly two words glued,attested word pair: бола туруп (19)
+normal,болмаярай,3,3,0,0,30,possibly two words glued,attested word pair: болма ярай (10)
+normal,болсунучун,3,3,0,0,30,possibly two words glued,attested word pair: болсун учун (19)
+normal,болупгелген,3,3,0,0,30,possibly two words glued,attested word pair: болуп гелген (35)
+normal,болупишлеген,3,3,0,0,30,possibly two words glued,attested word pair: болуп ишлеген (51)
+normal,бырынгы,3,0,3,0,30,possibly lost ъ,attested with ъ: бырынгъы (470)
+normal,вб,3,0,3,0,30,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,гезел,3,3,0,0,30,possibly ё written as е,attested with ё: гёзел (389)
+normal,генгю,3,3,0,0,30,possibly ё written as е,attested with ё: гёнгю (115)
+normal,герекэди,3,3,0,0,30,possibly two words glued; э after a consonant,"attested word pair: герек эди (46); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,гирипгелди,3,3,0,0,30,possibly two words glued,attested word pair: гирип гелди (32)
+normal,грэплингден,3,0,3,0,30,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,гъакъында,3,3,0,0,30,«гъ» where «гь» is far more frequent; word starts with гъ,"possibly ъ and ь confused; attested: гьакъында (3816); Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гъып,3,0,3,0,30,word starts with гъ,"Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гъыстангъа,3,0,3,0,30,word starts with гъ,"Kumyk words do not begin with гъ: a suffix written apart (-гъа, -гъан), a name or гь read as гъ"
+normal,гьажимажагьатюртдагъы,3,0,3,0,30,very long token,possibly glued words
+normal,гьарадам,3,3,0,0,30,possibly two words glued,attested word pair: гьар адам (18)
+normal,гьарйыл,3,3,0,0,30,possibly two words glued,attested word pair: гьар йыл (46)
+normal,гьмр,3,0,3,0,30,no vowel,abbreviation or noise
+normal,гёрюнюптура,3,3,0,0,30,possibly two words glued,attested word pair: гёрюнюп тура (22)
+normal,дагьыстаным,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: дагъыстаным (77)
+normal,дагэкосити,3,0,3,0,30,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,дегенэди,3,3,0,0,30,possibly two words glued; э after a consonant,"attested word pair: деген эди (22); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,депайтма,3,3,0,0,30,possibly two words glued,attested word pair: деп айтма (25)
+normal,депанглата,3,3,0,0,30,possibly two words glued,attested word pair: деп англата (18)
+normal,депжавап,3,3,0,0,30,possibly two words glued,attested word pair: деп жавап (100)
+normal,дептилей,3,3,0,0,30,possibly two words glued,attested word pair: деп тилей (26)
+normal,днр,3,0,3,0,30,no vowel,abbreviation or noise
+normal,дослукъдататывлукъда,3,0,3,0,30,very long token,possibly glued words
+normal,ев,3,0,3,0,30,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,еж,3,3,0,0,30,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,елугъув,3,3,0,0,30,possibly ё written as е,attested with ё: ёлугъув (176)
+normal,жж,3,3,0,0,30,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,з-нчю,3,3,0,0,30,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+normal,замангетип,3,3,0,0,30,possibly two words glued,attested word pair: заман гетип (62)
+normal,затгьа,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: затгъа (297)
+normal,институтгьа,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: институтгъа (101)
+normal,кгб,3,0,3,0,30,no vowel,abbreviation or noise
+normal,кемек,3,3,0,0,30,possibly ё written as е,attested with ё: кёмек (1976)
+normal,км,3,0,3,1,31,no vowel,abbreviation or noise
+normal,кпрф,3,0,3,1,31,no vowel,abbreviation or noise
+normal,къабулэте,3,3,0,0,30,possibly two words glued; э after a consonant,"attested word pair: къабул эте (37); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,къайгьы,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: къайгъы (127)
+normal,къоллавчуланыалывчуланы,3,0,3,0,30,very long token,possibly glued words
+normal,къуллукъларынталапларын,3,0,3,0,30,very long token,possibly glued words
+normal,кёмекэтмеге,3,3,0,0,30,possibly two words glued; э after a consonant,"attested word pair: кёмек этмеге (25); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,лнр,3,0,3,0,30,no vowel,abbreviation or noise
+normal,магьамматсалигьовични,3,0,3,0,30,very long token,possibly glued words
+normal,машгьул,3,0,3,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: машгъул (1169)
+normal,меналда,3,3,0,0,30,possibly two words glued,attested word pair: мен алда (10)
+normal,менигьисабымда,3,3,0,0,30,possibly two words glued,attested word pair: мени гьисабымда (23)
+normal,мрт,3,0,3,0,30,no vowel,abbreviation or noise
+normal,мш,3,0,3,0,30,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,мэ,3,0,3,0,30,two-letter token outside the word lists; э after a consonant,"suffix written after a numeral or an abbreviation, interjection or noise; Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,нв,3,0,3,0,30,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,нечегюн,3,3,0,0,30,possibly two words glued,attested word pair: нече гюн (24)
+normal,нечейыл,3,3,0,0,30,possibly two words glued,attested word pair: нече йыл (42)
+normal,нн,3,3,0,0,30,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,нчийылдан,3,3,0,0,30,possibly two words glued,attested word pair: нчи йылдан (31)
+normal,нчыйылларда,3,3,0,0,30,possibly two words glued,attested word pair: нчы йылларда (38)
+normal,ойлашаэдим,3,3,0,0,30,possibly two words glued,attested word pair: ойлаша эдим (55)
+normal,онгайлыкъланыкъуллукъланы,3,0,3,0,30,very long token,possibly glued words
+normal,онуатын,3,3,0,0,30,possibly two words glued,attested word pair: ону атын (14)
+normal,онугьар,3,3,0,0,30,possibly two words glued,attested word pair: ону гьар (27)
+normal,оо,3,0,3,0,30,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,ооолар,3,0,3,0,30,same letter three times,"abbreviation, interjection or noise"
+normal,ортакъчылыкъэтген,3,3,0,0,30,possibly two words glued; э after a consonant,"attested word pair: ортакъчылыкъ этген (51); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,орташколаны,3,3,0,0,30,possibly two words glued,attested word pair: орта школаны (28)
+normal,охувожакъны,3,3,0,0,30,possibly two words glued,attested word pair: охув ожакъны (24)
+normal,охуматюше,3,3,0,0,30,possibly two words glued,attested word pair: охума тюше (41)
+normal,оъьзюню,3,3,0,0,30,not merged (S2),"two attested readings: оъзюню (12), оьзюню (3908); repaired form would be оъзюню / оьзюню"
+normal,оьзлероьзлени,3,0,3,0,30,оь or уь inside a word,Kumyk writes оь and уь word-initially: possibly glued words
+normal,оьзюбюзоьзюбюзню,3,0,3,0,30,оь or уь inside a word,Kumyk writes оь and уь word-initially: possibly glued words
+normal,оьзюноьзю,3,0,3,0,30,оь or уь inside a word,Kumyk writes оь and уь word-initially: possibly glued words
+normal,оьсюпгелеген,3,3,0,0,30,possibly two words glued,attested word pair: оьсюп гелеген (39)
+normal,оьтгерилеэди,3,3,0,0,30,possibly two words glued,attested word pair: оьтгериле эди (13)
+normal,оюнга,3,0,3,0,30,possibly lost ъ,attested with ъ: оюнгъа (56)
+normal,пппни,3,0,3,0,30,same letter three times,"abbreviation, interjection or noise"
+normal,противовоспалительным,3,3,0,0,30,very long token,possibly glued words
+normal,пю,3,3,0,0,30,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,райондагьы,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: райондагъы (435)
+normal,ркп,3,0,3,0,30,no vowel,abbreviation or noise
+normal,рт,3,3,0,1,31,no vowel,abbreviation or noise
+normal,санянлы,3,3,0,0,30,possibly two words glued,attested word pair: сан янлы (14)
+normal,сонгдагъы,3,3,0,0,30,possibly two words glued,attested word pair: сонг дагъы (18)
+normal,сонгмен,3,3,0,0,30,possibly two words glued,attested word pair: сонг мен (43)
+normal,союзунучлени,3,3,0,0,30,possibly two words glued,attested word pair: союзуну члени (16)
+normal,табасаранрайонну,3,3,0,0,30,possibly two words glued,attested word pair: табасаран районну (17)
+normal,тагьып,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: тагъып (48)
+normal,талапэте,3,3,0,0,30,possibly two words glued; э after a consonant,"attested word pair: талап эте (56); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,тарыкъэди,3,3,0,0,30,possibly two words glued; э after a consonant,"attested word pair: тарыкъ эди (50); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,текмени,3,3,0,0,30,possibly two words glued,attested word pair: тек мени (35)
+normal,тигеэди,3,3,0,0,30,possibly two words glued,attested word pair: тиге эди (12)
+normal,толукюйде,3,3,0,0,30,possibly two words glued,attested word pair: толу кюйде (95)
+normal,тсж,3,0,3,0,30,no vowel,abbreviation or noise
+normal,тутгьан,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: тутгъан (425)
+normal,тхэквондоист,3,0,3,0,30,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,тш,3,0,3,0,30,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,тьазир,3,3,0,0,30,possibly «гь» read as «ть»,attested with гь: гьазир (549)
+normal,тьазирлеген,3,3,0,0,30,possibly «гь» read as «ть»,attested with гь: гьазирлеген (176)
+normal,тьайран,3,3,0,0,30,possibly «гь» read as «ть»,attested with гь: гьайран (209)
+normal,тьалны,3,3,0,0,30,possibly «гь» read as «ть»,attested with гь: гьалны (458)
+normal,тьар-бир,3,3,0,0,30,possibly «гь» read as «ть»,attested with гь: гьар-бир (271)
+normal,тьасил,3,3,0,0,30,possibly «гь» read as «ть»,attested with гь: гьасил (567)
+normal,тьисаплана,3,3,0,0,30,possibly «гь» read as «ть»,attested with гь: гьисаплана (399)
+normal,тьислер,3,3,0,0,30,possibly «гь» read as «ть»,attested with гь: гьислер (134)
+normal,тьюрмет,3,3,0,0,30,possibly «гь» read as «ть»,attested with гь: гьюрмет (356)
+normal,тюгюлэди,3,3,0,0,30,possibly two words glued; э after a consonant,"attested word pair: тюгюл эди (128); Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,узагьында,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: узагъында (481)
+normal,уллуболгъан,3,3,0,0,30,possibly two words glued,attested word pair: уллу болгъан (36)
+normal,уп,3,3,0,0,30,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,уьюнэшигин,3,0,3,0,30,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,фсб,3,0,3,1,31,no vowel,abbreviation or noise
+normal,хоншудагьы,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: хоншудагъы (57)
+normal,хш,3,3,0,0,30,two-letter token outside the word lists; no vowel,"suffix written after a numeral or an abbreviation, interjection or noise; abbreviation or noise"
+normal,чагьында,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: чагъында (155)
+normal,чувлукъ,3,0,3,1,31,not merged (H1),joined form is in a word list; repaired form would be чув-лукъ
+normal,чыгъаэди,3,3,0,0,30,possibly two words glued,attested word pair: чыгъа эди (30)
+normal,чыгьарып,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: чыгъарып (453)
+normal,школаныалтын,3,3,0,0,30,possibly two words glued,attested word pair: школаны алтын (15)
+normal,шонуучун,3,3,0,0,30,possibly two words glued,attested word pair: шону учун (29)
+normal,ъаягент,3,3,0,0,30,word starts with ь or ъ,possibly OCR
+normal,ый,3,3,0,0,30,two-letter token outside the word lists,"suffix written after a numeral or an abbreviation, interjection or noise"
+normal,эсиметюшюп,3,3,0,0,30,possibly two words glued,attested word pair: эсиме тюшюп (20)
+normal,эсэрлени,3,0,3,0,30,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,ягъарлыкъэнергия,3,0,3,0,30,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,язгьан,3,3,0,0,30,«гь» where «гъ» is far more frequent,possibly ъ and ь confused; attested: язгъан (587)
+normal,влксм,2,0,2,1,21,no vowel,abbreviation or noise
+normal,рк,2,1,1,1,21,no vowel,abbreviation or noise
+normal,кпсс,1,0,1,1,11,no vowel,abbreviation or noise
+normal,вцспс,0,0,0,1,1,no vowel,abbreviation or noise
+normal,дпс,0,0,0,1,1,no vowel,abbreviation or noise
+normal,кпрд,0,0,0,1,1,no vowel,abbreviation or noise
+normal,мэр,0,0,0,1,1,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,п-ке,0,0,0,1,1,hyphen part shorter than 2 letters,abbreviation or broken hyphenation
+normal,политэкономия,0,0,0,1,1,э after a consonant,"Kumyk writes э word-initially: glued words, an abbreviation or a loan"
+normal,рсфср,0,0,0,1,1,no vowel,abbreviation or noise
+normal,уланкъардаш-къызардаш,0,0,0,1,1,very long token,possibly glued words
+normal,ъявлукъ,0,0,0,1,1,word starts with ь or ъ,possibly OCR
+normal,элчихана,0,0,0,1,1,not merged (H1),joined form is in a word list; repaired form would be элчи-хана

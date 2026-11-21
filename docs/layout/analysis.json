@@ -1,0 +1,479 @@
+{
+ "source": {
+  "artifact": "kumyk_words.sqlite",
+  "content_version": "1",
+  "cleanup_version": "1",
+  "note": "token-weighted; corpus count of a word = base_score // 10; words known only from a word list (count 0) are left out"
+ },
+ "statistics": {
+  "word_types": 37293,
+  "word_tokens": 1930926,
+  "characters": 12233966,
+  "mean_word_length": 6.34,
+  "word_length_percent": {
+   "2": 8.592,
+   "3": 9.152,
+   "4": 10.595,
+   "5": 16.441,
+   "6": 11.278,
+   "7": 11.676,
+   "8": 10.17,
+   "9": 7.364,
+   "10": 5.383,
+   "11": 3.958,
+   "12": 2.459,
+   "13": 1.385,
+   "14": 0.723,
+   "15": 0.46,
+   "16": 0.217
+  },
+  "character_percent": {
+   "а": 14.423,
+   "н": 7.247,
+   "л": 6.815,
+   "е": 5.99,
+   "р": 5.463,
+   "и": 5.3,
+   "г": 4.816,
+   "ы": 4.464,
+   "д": 3.903,
+   "т": 3.868,
+   "ъ": 3.839,
+   "у": 3.667,
+   "к": 3.637,
+   "о": 2.892,
+   "м": 2.849,
+   "б": 2.819,
+   "с": 2.511,
+   "й": 1.805,
+   "ю": 1.781,
+   "ш": 1.687,
+   "в": 1.654,
+   "з": 1.391,
+   "п": 1.373,
+   "ь": 1.289,
+   "ч": 1.235,
+   "я": 1.035,
+   "э": 0.659,
+   "ё": 0.555,
+   "х": 0.441,
+   "ж": 0.378,
+   "ц": 0.106,
+   "ф": 0.099,
+   "щ": 0.008
+  },
+  "alphabet_letter_percent": {
+   "а": 15.229,
+   "л": 7.196,
+   "н": 7.182,
+   "е": 6.325,
+   "р": 5.769,
+   "и": 5.597,
+   "ы": 4.713,
+   "д": 4.122,
+   "т": 4.084,
+   "у": 3.749,
+   "м": 3.008,
+   "б": 2.977,
+   "о": 2.704,
+   "с": 2.652,
+   "къ": 2.135,
+   "г": 2.1,
+   "й": 1.906,
+   "ю": 1.88,
+   "ш": 1.781,
+   "в": 1.746,
+   "гъ": 1.72,
+   "к": 1.705,
+   "з": 1.469,
+   "п": 1.45,
+   "ч": 1.304,
+   "я": 1.093,
+   "гь": 0.794,
+   "э": 0.696,
+   "ё": 0.586,
+   "нг": 0.471,
+   "х": 0.466,
+   "ж": 0.4,
+   "оь": 0.349,
+   "ъ": 0.2,
+   "уь": 0.124,
+   "ц": 0.112,
+   "ф": 0.105,
+   "ь": 0.094,
+   "щ": 0.009
+  },
+  "digraph_percent_of_letters": {
+   "гъ": 1.72,
+   "гь": 0.794,
+   "къ": 2.135,
+   "нг": 0.471,
+   "оь": 0.349,
+   "уь": 0.124
+  },
+  "digraphs_together_percent_of_letters": 5.593,
+  "hard_sign": {
+   "percent_of_characters": 3.839,
+   "rank_among_characters": 11,
+   "after_percent": {
+    "к": 52.656,
+    "г": 45.039,
+    "с": 0.981,
+    "а": 0.886,
+    "и": 0.226,
+    "з": 0.081
+   },
+   "share_of_к_followed_by_ъ": 55.59,
+   "share_of_г_followed_by_ъ": 35.908
+  },
+  "soft_sign": {
+   "percent_of_characters": 1.289,
+   "after_percent": {
+    "г": 58.388,
+    "о": 25.657,
+    "у": 9.09,
+    "л": 3.941,
+    "н": 1.799,
+    "т": 0.321,
+    "п": 0.216,
+    "р": 0.185
+   },
+   "share_of_г_followed_by_ь": 15.631
+  },
+  "front_vowel_spelling_tokens": {
+   "оь": {
+    "word-initial": 40426,
+    "after a consonant or sign": 32,
+    "after a vowel": 7
+   },
+   "уь": {
+    "word-initial": 14327,
+    "after a consonant or sign": 9
+   },
+   "ё": {
+    "after a consonant or sign": 50937,
+    "word-initial": 16962,
+    "after a vowel": 29
+   },
+   "ю": {
+    "after a consonant or sign": 178824,
+    "word-initial": 27660,
+    "after a vowel": 11345
+   },
+   "э": {
+    "word-initial": 79206,
+    "after a vowel": 753,
+    "after a consonant or sign": 720
+   }
+  },
+  "rare_letters_percent_of_characters": {
+   "щ": 0.008,
+   "ф": 0.099,
+   "ц": 0.106,
+   "ж": 0.378,
+   "х": 0.441,
+   "ё": 0.555,
+   "э": 0.659
+  },
+  "top_character_pairs_percent": {
+   "ла": 2.818,
+   "ан": 2.66,
+   "къ": 2.404,
+   "да": 2.343,
+   "ар": 2.217,
+   "ъа": 2.092,
+   "гъ": 2.056,
+   "ге": 1.558,
+   "ен": 1.478,
+   "ал": 1.289,
+   "ма": 1.268,
+   "аг": 1.202,
+   "де": 1.186,
+   "ны": 1.18,
+   "ер": 1.136,
+   "ай": 1.11,
+   "ле": 1.04,
+   "ол": 0.979,
+   "та": 0.939,
+   "ра": 0.932,
+   "гь": 0.895,
+   "ын": 0.839,
+   "би": 0.8,
+   "ат": 0.782,
+   "ин": 0.756,
+   "ул": 0.748,
+   "нд": 0.745,
+   "ба": 0.738,
+   "ъы": 0.717,
+   "ни": 0.713
+  },
+  "per_corpus": {
+   "magazine_ocr": {
+    "characters": 2847672,
+    "top_12": "анлеиргыдтък",
+    "percent": {
+     "ъ": 3.736,
+     "ь": 1.394,
+     "ё": 0.48,
+     "ю": 1.866,
+     "ы": 4.368,
+     "э": 0.933,
+     "х": 0.442,
+     "ж": 0.356,
+     "ц": 0.064,
+     "ф": 0.091,
+     "щ": 0.009
+    }
+   },
+   "newspaper_frequency_list": {
+    "characters": 9386377,
+    "top_12": "анлеригыдтъу",
+    "percent": {
+     "ъ": 3.859,
+     "ь": 1.269,
+     "ё": 0.578,
+     "ю": 1.755,
+     "ы": 4.493,
+     "э": 0.577,
+     "х": 0.441,
+     "ж": 0.385,
+     "ц": 0.118,
+     "ф": 0.102,
+     "щ": 0.008
+    }
+   }
+  }
+ },
+ "model": {
+  "screen_pt": 402.0,
+  "long_press_delay_s": 0.3,
+  "tap_rates_s": {
+   "0.25 s per tap": 0.25,
+   "0.18 s per tap": 0.18
+  },
+  "note": "model-based estimates, not measured typing speed"
+ },
+ "candidates": {
+  "A0": {
+   "title": "Russian iOS keyboard as it is (ъ under ь only)",
+   "rows": [
+    "йцукенгшщзх",
+    "фывапролджэ",
+    "ячсмитьбю"
+   ],
+   "keys_per_row": [
+    11,
+    11,
+    9
+   ],
+   "narrowest_letter_key_pt": {
+    "402 pt screen": 29.91,
+    "375 pt screen": 27.45
+   },
+   "key_presses_per_word": 6.336,
+   "taps_per_word": 6.057,
+   "long_presses_per_100_words": 27.84,
+   "long_presses_per_100_characters": 4.395,
+   "words_needing_a_long_press_percent": 23.908,
+   "thumb_travel_pt_per_character": 53.06,
+   "same_thumb_transitions_percent": 41.789,
+   "seconds_per_100_words": {
+    "0.25 s per tap": 166.7,
+    "0.18 s per tap": 122.4
+   },
+   "letters_moved_from_the_russian_layout": [],
+   "letters_without_a_key": [
+    "ъ",
+    "ё"
+   ],
+   "digraph_entry": {
+    "гъ": "long press on г",
+    "гь": "2 taps, same thumb, 114 pt apart",
+    "къ": "long press on к",
+    "нг": "2 taps, same thumb, 36 pt apart",
+    "оь": "2 taps, same thumb, 65 pt apart",
+    "уь": "2 taps, alternating thumbs, 210 pt apart"
+   }
+  },
+  "A": {
+   "title": "Russian iOS layout, digraphs on long press",
+   "rows": [
+    "йцукенгшщзх",
+    "фывапролджэ",
+    "ячсмитьбю"
+   ],
+   "keys_per_row": [
+    11,
+    11,
+    9
+   ],
+   "narrowest_letter_key_pt": {
+    "402 pt screen": 29.91,
+    "375 pt screen": 27.45
+   },
+   "key_presses_per_word": 6.098,
+   "taps_per_word": 5.82,
+   "long_presses_per_100_words": 27.84,
+   "long_presses_per_100_characters": 4.395,
+   "words_needing_a_long_press_percent": 23.908,
+   "thumb_travel_pt_per_character": 49.12,
+   "same_thumb_transitions_percent": 42.038,
+   "seconds_per_100_words": {
+    "0.25 s per tap": 160.8,
+    "0.18 s per tap": 118.1
+   },
+   "letters_moved_from_the_russian_layout": [],
+   "letters_without_a_key": [
+    "ъ",
+    "ё"
+   ],
+   "digraph_entry": {
+    "гъ": "long press on г",
+    "гь": "2 taps, same thumb, 114 pt apart",
+    "къ": "long press on к",
+    "нг": "2 taps, same thumb, 36 pt apart",
+    "оь": "2 taps, same thumb, 65 pt apart",
+    "уь": "2 taps, alternating thumbs, 210 pt apart"
+   }
+  },
+  "B": {
+   "title": "ъ on щ's key, щ under ш (chosen)",
+   "rows": [
+    "йцукенгшъзх",
+    "фывапролджэ",
+    "ячсмитьбю"
+   ],
+   "keys_per_row": [
+    11,
+    11,
+    9
+   ],
+   "narrowest_letter_key_pt": {
+    "402 pt screen": 29.91,
+    "375 pt screen": 27.45
+   },
+   "key_presses_per_word": 6.336,
+   "taps_per_word": 6.3,
+   "long_presses_per_100_words": 3.57,
+   "long_presses_per_100_characters": 0.564,
+   "words_needing_a_long_press_percent": 3.563,
+   "thumb_travel_pt_per_character": 52.72,
+   "same_thumb_transitions_percent": 41.789,
+   "seconds_per_100_words": {
+    "0.25 s per tap": 159.5,
+    "0.18 s per tap": 115.1
+   },
+   "letters_moved_from_the_russian_layout": [
+    "щ"
+   ],
+   "letters_without_a_key": [
+    "щ",
+    "ё"
+   ],
+   "digraph_entry": {
+    "гъ": "2 taps, same thumb, 72 pt apart",
+    "гь": "2 taps, same thumb, 114 pt apart",
+    "къ": "2 taps, alternating thumbs, 180 pt apart",
+    "нг": "2 taps, same thumb, 36 pt apart",
+    "оь": "2 taps, same thumb, 65 pt apart",
+    "уь": "2 taps, alternating thumbs, 210 pt apart"
+   }
+  },
+  "C1": {
+   "title": "Russian layout plus ъ as a 12th top-row key",
+   "rows": [
+    "йцукенгшщзхъ",
+    "фывапролджэ",
+    "ячсмитьбю"
+   ],
+   "keys_per_row": [
+    12,
+    11,
+    9
+   ],
+   "narrowest_letter_key_pt": {
+    "402 pt screen": 26.92,
+    "375 pt screen": 24.67
+   },
+   "key_presses_per_word": 6.336,
+   "taps_per_word": 6.301,
+   "long_presses_per_100_words": 3.52,
+   "long_presses_per_100_characters": 0.555,
+   "words_needing_a_long_press_percent": 3.51,
+   "thumb_travel_pt_per_character": 55.75,
+   "same_thumb_transitions_percent": 45.732,
+   "seconds_per_100_words": {
+    "0.25 s per tap": 159.5,
+    "0.18 s per tap": 115.1
+   },
+   "letters_moved_from_the_russian_layout": [
+    "г",
+    "е",
+    "з",
+    "й",
+    "к",
+    "н",
+    "у",
+    "х",
+    "ц",
+    "ш",
+    "щ"
+   ],
+   "letters_without_a_key": [
+    "ё"
+   ],
+   "digraph_entry": {
+    "гъ": "2 taps, same thumb, 165 pt apart",
+    "гь": "2 taps, same thumb, 121 pt apart",
+    "къ": "2 taps, alternating thumbs, 263 pt apart",
+    "нг": "2 taps, alternating thumbs, 33 pt apart",
+    "оь": "2 taps, same thumb, 65 pt apart",
+    "уь": "2 taps, alternating thumbs, 216 pt apart"
+   }
+  },
+  "C2": {
+   "title": "B with ё on ц's key, ц under ч",
+   "rows": [
+    "йёукенгшъзх",
+    "фывапролджэ",
+    "ячсмитьбю"
+   ],
+   "keys_per_row": [
+    11,
+    11,
+    9
+   ],
+   "narrowest_letter_key_pt": {
+    "402 pt screen": 29.91,
+    "375 pt screen": 27.45
+   },
+   "key_presses_per_word": 6.336,
+   "taps_per_word": 6.329,
+   "long_presses_per_100_words": 0.72,
+   "long_presses_per_100_characters": 0.114,
+   "words_needing_a_long_press_percent": 0.722,
+   "thumb_travel_pt_per_character": 52.96,
+   "same_thumb_transitions_percent": 41.789,
+   "seconds_per_100_words": {
+    "0.25 s per tap": 158.6,
+    "0.18 s per tap": 114.3
+   },
+   "letters_moved_from_the_russian_layout": [
+    "ц",
+    "щ"
+   ],
+   "letters_without_a_key": [
+    "ц",
+    "щ"
+   ],
+   "digraph_entry": {
+    "гъ": "2 taps, same thumb, 72 pt apart",
+    "гь": "2 taps, same thumb, 114 pt apart",
+    "къ": "2 taps, alternating thumbs, 180 pt apart",
+    "нг": "2 taps, same thumb, 36 pt apart",
+    "оь": "2 taps, same thumb, 65 pt apart",
+    "уь": "2 taps, alternating thumbs, 210 pt apart"
+   }
+  }
+ }
+}

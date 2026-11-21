@@ -1,0 +1,30 @@
+Copyright © 2026 LekiTech (https://github.com/LekiTech). All rights reserved.
+
+This repository — including its source code, app icons, and the bundled
+word dictionary — is made available for viewing and reference only.
+
+No permission is granted to use, copy, modify, merge, publish, distribute,
+sublicense, or sell any part of this repository, in source or binary form,
+for any purpose, without prior written permission from LekiTech.
+
+Viewing and forking on GitHub are permitted solely to the extent required by
+the GitHub Terms of Service.
+
+Third-party components remain under their own licenses:
+- The assignment of the Kumyk digraphs to Russian keys on a long press
+  (data/kum/Ali_Kuzhuget/mapping/kum_key_mapping_ext.json) from
+  https://github.com/Agisight/rf-keyboard-corpora — MIT License,
+  Copyright (c) 2025 Agisight (Ali Kuzhuget).
+- The transcription of the Russian iOS keyboard (layout/rus) from
+  https://github.com/Agisight/ios-system-keyboard — MIT License,
+  Copyright (c) 2025 Agisight.
+  Copies of both licenses and of the files used are in
+  Tests/KumykCoreTests/Fixtures/agisight/.
+- Dictionary sources (word counts and word pairs, not the texts): the
+  LingConLab Kumyk frequency list and parallel corpus, the Apertium Kumyk
+  lexicon and the Intercontinental Dictionary Series word list; see
+  docs/DICTIONARY.md.
+- Emoji catalog data (General Keyboard) derived from Unicode® emoji-test.txt
+  — © Unicode, Inc.
+
+For permission requests, contact LekiTech: https://github.com/LekiTech
